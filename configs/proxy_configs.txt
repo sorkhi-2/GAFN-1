@@ -62,8 +62,6 @@ vless://0ac50e14-b3a2-4a7d-b881-61d5178e56e1@de.carefreemob2.com:3661?security=r
 
 trojan://2ggAcGC8hJ@15.204.237.31:2083?sni=USa-vp-31.MeTiKapps.Com&type=ws&host=USa-vp-31.MeTiKapps.Com&path=/linkws#telegram 🌟 DailyV2ry
 
-trojan://2ggAcGC8hJ@15.204.237.31:2083?sni=USa-vp-31.MeTiKapps.Com&type=ws&host=USa-vp-31.MeTiKapps.Com&path=/linkws#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
-
 trojan://74260698218909400@patient-crawdad.shiner427.skin:443/?type=tcp&security=tls&sni=patient-crawdad.shiner427.skin#@meli_proxyy
 
 trojan://74260698218909400@patient-crawdad.shiner427.skin:443/?type=tcp&security=tls&sni=patient-crawdad.shiner427.skin#telegram ⚡️ DailyV2ry
@@ -90,7 +88,7 @@ trojan://AzFNJQt8t3@15.204.9.249:2083?sni=usA-Vp-249.MeTIkAppS.coM&type=ws&host=
 
 trojan://aTArbZ2F0E@cloudgetservice.mcloudservice.site:443?sni=uSa-vp-27.bLAzECLOUD.SITE&type=ws&host=uSa-vp-27.bLAzECLOUD.SITE&path=/linkvkws#telegram ☂️ DailyV2ry
 
-trojan://aTArbZ2F0E@cloudgetservice.mcloudservice.site:443?sni=uSa-vp-27.bLAzECLOUD.SITE&type=ws&host=uSa-vp-27.bLAzECLOUD.SITE&path=/linkvkws#telegram 🌟 DailyV2ry
+trojan://aTArbZ2F0E@cloudgetservice.mcloudservice.site:443?sni=uSa-vp-27.bLAzECLOUD.SITE&type=ws&host=uSa-vp-27.bLAzECLOUD.SITE&path=/linkvkws#telegram 🍊 DailyV2ry
 
 trojan://amclubs@103.160.204.1:443/?type=ws&host=tran.amclubstest.nyc.mn&path=%2F%3Fed%3D2560&security=tls&sni=tran.amclubstest.nyc.mn#a6%F0%9F%96%B2%EF%B8%8F%40Tv2rayrr
 
@@ -115,6 +113,8 @@ trojan://psycho@104.21.112.1:443?path=%2Ftrv9KENu5FqbFAtPFq%3Fed%3D2560&security
 trojan://psycho@104.21.16.1:443?path=%2Ftr9Fj4CU0RyaUChYLb%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=psycho.suex12.ir&fp=randomized&type=ws&sni=pSYCHo.sUEX12.iR#%40Gp_Config%20%F0%9F%91%88%20%D8%B9%D8%B6%D9%88%DB%8C%D8%AA
 
 trojan://psycho@104.21.16.1:443?path=%2Ftr9Fj4CU0RyaUChYLb%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=psycho.suex12.ir&fp=randomized&type=ws&sni=pSYCHo.sUEX12.iR#%F0%9F%87%A7%F0%9F%87%BB%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
+
+trojan://psycho@104.21.16.1:443?path=%2Ftr9Fj4CU0RyaUChYLb%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=psycho.suex12.ir&fp=randomized&type=ws&sni=pSYCHo.sUEX12.iR#%F0%9F%87%A8%F0%9F%87%A6%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0RkVPdVgwMWRKTFRGQnlsMUEzTEl6@178.208.91.118:19805#%F0%9D%90%93%F0%9D%90%A1%F0%9D%90%9E%F0%9D%90%8A%F0%9D%90%9E%F0%9D%90%B2%F0%9F%94%91
 
@@ -186,6 +186,8 @@ vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICLYs9ix2YjbjNizINm+2LHYs9ix2LnYqiAtPiBATWVs
 
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICLYs9ix2YjbjNizINm+2LHYs9ix2LnYqiAtPiBATWVsaVNoZWthbkJvdCIsCiAgImFkZCI6ICIxMzkuMTQ0LjE1NC4yMDMiLAogICJwb3J0IjogNTc2NDcsCiAgImlkIjogImVhNDE1OTI3LWZkNjYtNDNkMC1lMTRmLTY4ZmI2YTM5NjE0ZiIsCiAgImFpZCI6IDAsCiAgIm5ldCI6ICJ0Y3AiLAogICJ0eXBlIjogImh0dHAiLAogICJob3N0IjogIiIsCiAgInBhdGgiOiAiLyIsCiAgInRscyI6ICJub25lIgp9
 
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVJBVy1OQSBcdWQ4M2NcdWRkZjhcdWQ4M2NcdWRkZWMgU0ctNjIuMTQ2LjIzMy4xNTk6NDM3NjMiLCAiYWRkIjogIjYyLjE0Ni4yMzMuMTU5IiwgInBvcnQiOiAiNDM3NjMiLCAiaWQiOiAiMWRkZjNhZGUtNWI4Yy00MjBjLTg0ZjYtZjk2OTc5ZWMzMDgwIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJyYXciLCAidHlwZSI6ICJub25lIn0=
+
 vmess://eyJ2IjogIjIiLCAicHMiOiAidGVsZWdyYW0g8J+MnyBEYWlseVYycnkiLCAiYWRkIjogIjYyLjE0Ni4yMzIuMTU5IiwgInBvcnQiOiAxNDM3MiwgImlkIjogImVkMWQ3ZWE4LWJmNDAtNGE0YS04ZWFjLThlNTc3OThiYTZmNyIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAibm9uZSJ9
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAidGVsZWdyYW0g8J+agCBEYWlseVYycnkiLCAiYWRkIjogIjM1LjIxNi4xMTMuNjAiLCAicG9ydCI6ICI0NDQ0NSIsICJpZCI6ICI3YzJlNDg1OC1kNDAyLTRjODMtYmViYi0zNjJjMmFjYTMzZmUiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImxpa2UubG9jLmNjIiwgInBhdGgiOiAiN2MyZTQ4NTgtZDQwMi00YzgzLWJlYmItMzYyYzJhY2EzM2ZlLXZtIiwgInRscyI6ICJ0bHMiLCAic25pIjogImxpa2UubG9jLmNjIiwgImFscG4iOiAiIiwgImZwIjogIiJ9
@@ -225,6 +227,4 @@ vmess://eyJ2IjoiMiIsInBzIjogInRlbGVncmFtIPCfjq8gRGFpbHlWMnJ5IiwiYWRkIjoiMTUuMjA0
 vmess://eyJ2IjoiMiIsInBzIjogInRlbGVncmFtIPCfjq8gRGFpbHlWMnJ5IiwiYWRkIjoiY2xvdWRnZXRzZXJ2aWNlLm1jbG91ZHNlcnZpY2Uuc2l0ZSIsInBvcnQiOjQ0MywiaWQiOiIzY2Y1ODYwNi01ZjJhLTQ2MDktOWFiZC00MDRmNjMzYmQ3ZTAiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJtYVhORXRWSVAtdXNBLVZQMy5uRVRLSDMuU2lURSIsInBhdGgiOiJcL2xpbmt3cz9lZD0yNTYwIiwidGxzIjoidGxzIn0=Daily
 
 vmess://eyJ2IjoiMiIsInBzIjogInRlbGVncmFtIPCfmoAgRGFpbHlWMnJ5IiwiYWRkIjoiMTUuMjA0LjIzNy4zMSIsInBvcnQiOjQ0MywiaWQiOiI2NzczYzI5Mi1kMGFlLTRkZWYtODA0OS0yYWEzOTMwMmIzYTAiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ1U2EtdlAtMzEubUV0SUtBUFBzLkNvTSIsInBhdGgiOiJcL2xpbmt2d3MiLCJ0bHMiOiJ0bHMifQ==
-
-vmess://eyJ2IjoiMiIsInBzIjoiWUVFWTU3MTIiLCJhZGQiOiIxNzAuMTg3LjE2My44OSIsInBvcnQiOiI4ODgxIiwiaWQiOiJkYjVhZmFlNC1hYzIzLTQxYTYtODM3OC1mMzA3YTlhNDc0MzYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwiaG9zdCI6Im1paGFud2ViaG9zdC5jb20iLCJwYXRoIjoiLyIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJhbHBuIjoiIn0=
 
