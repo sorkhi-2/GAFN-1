@@ -70,6 +70,8 @@ trojan://61d4840a5f23ac24873dd72e54a607e7@notice.2513142.xyz:443/?type=ws&path=%
 
 trojan://89c1aea7-4d0d-4013-b663-0f94a3e6bdbd@104.21.58.135:443?path=%2FT5yZBrY2Qkg2cThJQeJb&security=tls&alpn=http%2F1.1&host=sanjose01.818185.xyz&fp=chrome&type=ws&sni=sanjose01.818185.xyz#%40V2rayNGVPN
 
+trojan://89c1aea7-4d0d-4013-b663-0f94a3e6bdbd@104.21.58.135:443?path=%2FT5yZBrY2Qkg2cThJQeJb&security=tls&alpn=http%2F1.1&host=sanjose01.818185.xyz&fp=chrome&type=ws&sni=sanjose01.818185.xyz#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+
 trojan://I46LpSIM1f@194.164.57.9:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x4ger-ionos.devefun.net#%E2%9C%85%20%40vistav2ray%20%20%F0%9F%91%88%F0%9F%91%88%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7
 
 trojan://Ng35283528@104.16.83.176:443/?type=ws&host=c2.validbv3528.eu.org&security=tls&sni=c2.validbv3528.eu.org#%F0%9F%8D%8091%40Tv2rayrr
@@ -113,8 +115,6 @@ trojan://d63b8dad-02ee-4477-8f58-693a715ddd4c@aafrtpfxr.idl01i9zjfegelp.5xfsur8v
 trojan://d63b8dad-02ee-4477-8f58-693a715ddd4c@aafrtpfxr.inl01i9zjfegelp.5xfsur8v62.gosdk.xyz:42882/?type=tcp&security=tls&sni=q08m.vgraxiw73s.hasyaf.cn#53%F0%9F%8D%80%40oneclickvpnkeys
 
 trojan://d63b8dad-02ee-4477-8f58-693a715ddd4c@aafrtpfxr.jpl01i9zjfegelp.5xfsur8v62.gosdk.xyz:27001/?type=tcp&security=tls&sni=q08m.vgraxiw73s.hasyaf.cn#52%F0%9F%8D%80%40oneclickvpnkeys
-
-trojan://d63b8dad-02ee-4477-8f58-693a715ddd4c@aafrtpfxr.jpl02i9zjfegelp.5xfsur8v62.gosdk.xyz:27002/?type=tcp&security=tls&sni=q08m.vgraxiw73s.hasyaf.cn#54%F0%9F%8D%80%40oneclickvpnkeys
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#%40Gp_Config%20%F0%9F%91%88%20%DA%AF%D8%B1%D9%88%D9%87%20%D9%85%D8%A7
 
