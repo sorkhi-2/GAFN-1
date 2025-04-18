@@ -4,6 +4,7 @@ import uuid
 import time
 import socket
 import requests
+import re
 from typing import Dict, Optional, Tuple
 from urllib.parse import urlparse, parse_qs
 
@@ -108,12 +109,16 @@ class ConfigToSingbox:
             if url.scheme.lower() != 'vless' or not url.hostname:
                 return None
             netloc = url.netloc.split('@')[-1]
-            address, port = netloc.split(':') if ':' in netloc else (netloc, '443')
+            address, port_str = netloc.split(':') if ':' in netloc else (netloc, '443')
+            try:
+                port = int(port_str)
+            except ValueError:
+                return None
             params = parse_qs(url.query)
             return {
                 'uuid': url.username,
                 'address': address,
-                'port': int(port),
+                'port': port,
                 'flow': params.get('flow', [''])[0],
                 'sni': params.get('sni', [address])[0],
                 'type': params.get('type', ['tcp'])[0],
@@ -128,7 +133,11 @@ class ConfigToSingbox:
             url = urlparse(config)
             if url.scheme.lower() != 'trojan' or not url.hostname:
                 return None
-            port = url.port or 443
+            port_str = url.port or '443'
+            try:
+                port = int(port_str)
+            except ValueError:
+                return None
             params = parse_qs(url.query)
             return {
                 'password': url.username,
@@ -163,14 +172,18 @@ class ConfigToSingbox:
             if len(parts) != 2:
                 return None
             method_pass = base64.b64decode(parts[0]).decode('utf-8')
-            method, password = method_pass.split(':')
+            method, password = method_pass.split(':', 1)
             server_parts = parts[1].split('#')[0]
-            host, port = server_parts.split(':')
+            host, port_str = server_parts.split(':')
+            try:
+                port = int(port_str)
+            except ValueError:
+                return None
             return {
                 'method': method,
                 'password': password,
                 'address': host,
-                'port': int(port)
+                'port': port
             }
         except Exception:
             return None
@@ -183,12 +196,17 @@ class ConfigToSingbox:
                 if not vmess_data or not vmess_data.get('add') or not vmess_data.get('port') or not vmess_data.get('id'):
                     return None
                 transport = {}
-                if vmess_data.get('net') in ['ws', 'h2']:
+                net = vmess_data.get('net', 'tcp')
+                if net == 'grpc':
+                    transport = {"type": "grpc", "service_name": vmess_data.get('path', '')}
+                elif net in ['ws', 'h2']:
                     if vmess_data.get('path', ''):
                         transport["path"] = vmess_data.get('path')
                     if vmess_data.get('host', ''):
                         transport["headers"] = {"Host": vmess_data.get('host')}
-                    transport["type"] = vmess_data.get('net', 'tcp')
+                    transport["type"] = net
+                else:
+                    transport = {"type": net}
                 flag, country = self.get_location(vmess_data['add'])
                 return {
                     "type": "vmess",
@@ -210,12 +228,16 @@ class ConfigToSingbox:
                 if not vless_data:
                     return None
                 transport = {}
-                if vless_data['type'] == 'ws':
+                if vless_data['type'] == 'grpc':
+                    transport = {"type": "grpc", "service_name": vless_data.get('path', '')}
+                elif vless_data['type'] == 'ws':
                     if vless_data.get('path', ''):
                         transport["path"] = vless_data.get('path')
                     if vless_data.get('host', ''):
                         transport["headers"] = {"Host": vless_data.get('host')}
                     transport["type"] = "ws"
+                else:
+                    transport = {"type": vless_data['type']}
                 flag, country = self.get_location(vless_data['address'])
                 return {
                     "type": "vless",
@@ -236,7 +258,9 @@ class ConfigToSingbox:
                 if not trojan_data:
                     return None
                 transport = {}
-                if trojan_data['type'] != 'tcp' and trojan_data.get('path', ''):
+                if trojan_data['type'] == 'grpc':
+                    transport = {"type": "grpc", "service_name": trojan_data.get('path', '')}
+                elif trojan_data['type'] != 'tcp' and trojan_data.get('path', ''):
                     transport["path"] = trojan_data.get('path')
                     transport["type"] = trojan_data['type']
                 flag, country = self.get_location(trojan_data['address'])
@@ -291,11 +315,11 @@ class ConfigToSingbox:
     def process_configs(self):
         try:
             with open('configs/proxy_configs.txt', 'r') as f:
-                configs = f.read().strip().split('\n')
+                content = f.read()
+            configs = [c.strip() for c in re.split(r'(?=vmess://|vless://|trojan://|hysteria2://|hy2://|ss://)', content) if c.strip()]
             outbounds = []
             valid_tags = []
             for config in configs:
-                config = config.strip()
                 if not config or config.startswith('//'):
                     continue
                 converted = self.convert_to_singbox(config)
