@@ -70,9 +70,9 @@ trojan://6040a753-e35b-4384-8713-96f3c639b621@172.67.204.22:443?security=tls&typ
 
 trojan://74260698218909400@202.78.163.140:443?sni=supreme-penguin.shiner427.skin#telegram 🚀 DailyV2ry
 
-trojan://74260698218909400@202.78.163.140:443?sni=supreme-penguin.shiner427.skin#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
-
 trojan://AXpQXM4vNh@141.227.160.167:1935/?type=tcp&security=tls&sni=x2swe-ovh.devefun.net&alpn=h3%2Ch2%2Chttp%2F1.1#telegram ⚡️ DailyV2ry
+
+trojan://AXpQXM4vNh@141.227.160.167:1935/?type=tcp&security=tls&sni=x2swe-ovh.devefun.net&alpn=h3%2Ch2%2Chttp%2F1.1#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://Aimer@173.245.59.144:443?sni=epcci.ambercc.filegear-sg.me&allowInsecure=0#telegram 🌟 DailyV2ry
 
@@ -124,6 +124,10 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Wm1Rd00yRmlZalJoTmpKbFl6RmtNV1F4TmpKa09Ea3l
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@131.145.42.113:443#%40V2rayNGVPN
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#@V2rayngSeven
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#@V2rayngSeven
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJjQGFwaS5uYW1hc2hhLmNvOjQ0Mw==#@meli_proxyy
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5NmZneUMyOGhzY21kd3FYajJ2MEZt@62.60.152.158:37618#@meli_proxyy
@@ -131,6 +135,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5NmZneUMyOGhzY21kd3FYajJ2MEZt@62.60.152.158:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5NmZneUMyOGhzY21kd3FYajJ2MEZt@62.60.152.158:37618#IR-%40V2ray_Alpha-6
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#%40v2rayngv16%20%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3%20-%20%F0%9F%87%AC%F0%9F%87%A7%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%AA%D8%B3%D8%AA%20%D9%BE%DB%8C%D8%A7%D9%85%20%D8%AF%D9%87%DB%8C%D8%AF
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#@V2rayngSeven
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#@meli_proxyy
 
@@ -142,6 +148,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@160.19.78.75:4
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPRE13WldJeg%3D%3D@89.221.224.166:8388#telegram 🍊 DailyV2ry
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPRGhoWQ%3D%3D@de1.vpnhack.site:8388#@M4Dvpn
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPRGhoWQ%3D%3D@de1.vpnhack.site:8388#@meli_proxyy
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146:8080#%F0%9D%90%93%F0%9D%90%A1%F0%9D%90%9E%F0%9D%90%8A%F0%9D%90%9E%F0%9D%90%B2%F0%9F%94%91
@@ -152,6 +160,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.243.215.17:990#tel
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a1.samanehha.co:443#telegram 🌟 DailyV2ry
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#@V2rayngSeven
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#@V2rayngSeven
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1ZnQHNlcmllcy1hMi52YXJ6ZXNoMzYwLmNvOjQ0Mw==#@meli_proxyy
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvSjd4blVrbkV1TVNjTTIxY2xDeUVpdDY2SlJobVpyQXJSU0UweGVhcEdSMjRIcUg%3D@89.44.197.181:31348#@meli_proxyy
@@ -159,18 +171,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvSjd4blVrbkV1TVNjTTIxY2xDeUVpdDY2SlJobVpyQXJ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080#%F0%9F%87%AB%F0%9F%87%B7%20FR-45.158.171.60%3A8080🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080#IR-%40V2ray_Alpha-5
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#@meli_proxyy
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#IR-%40V2ray_Alpha-3
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#@meli_proxyy
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#IR-%40V2ray_Alpha-1
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8080#@meli_proxyy
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8080#IR-%40V2ray_Alpha-4
 
 hysteria2://GwWgU5GZQqsLWI4g2WGKXkdbeqg@35.158.161.4:25058?security=tls&insecure=1&sni=bing.com#@meli_proxyy
 
@@ -184,6 +184,8 @@ vmess://ewogICAgImFkZCI6ICIyLjU4Ljg3LjIyMSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0Ijog
 
 vmess://eyJ0bHMiOiJ0bHMiLCJwYXRoIjoiXC9saW5rdndzI1RFTEVHUkFNLU1BUkFNQkFTSElfTUFSQU1CQVNIST9lZD01MTIiLCJzY3kiOiJhdXRvIiwicHMiOiIoJTQwVm1lc3NQcm90b2NvbCklRDglQTglRDglQjElRDglQTclREIlOEMlMjAlRDglQUUlRDglQjElREIlOEMlRDglQUYlMjAlRDklODglMjAlRDglQTclRDglQUElRDglQjUlRDglQTclRDklODQlMjAlRDglQUYlRDglQTclRDglQTYlRDklODUlREIlOEMlMjAlRDglQUMlRDklODglREIlOEMlRDklODYlMjAlRDglQjQlRDklODglRjAlOUYlODclQTklRjAlOUYlODclQUElMjAiLCJhbHBuIjoiIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJzbmkiOiJrYXBlbGxlbmcuY29tIiwiYWRkIjoia2FwZWxsZW5nLmNvbSIsInBvcnQiOiI0NDMiLCJob3N0Ijoia2FwZWxsZW5nLmNvbSIsIm5ldCI6IndzIn0=
 
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVdTLU5BIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVUy0xMjkuMTQ2LjE3NS4xODU6MjM0NTEiLCAiYWRkIjogIjEyOS4xNDYuMTc1LjE4NSIsICJwb3J0IjogIjIzNDUxIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJhNjZhNjI4Ny0xZjZiLTQxYmItOTUwOS00ZjgyNTJiOGQ0N2QiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJob3N0IjogInBoeC1wbHVzLTFkZG5zLmZhZm9yZXguZXUub3JnIiwgInRscyI6ICIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
+
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggMTF88J+HuvCfh7gg576O5Zu9MnxAcmlwYW9qaWVkaWFuIiwiYWRkIjoiMTIwLjE5OC43MS4yMTkiLCJwb3J0IjoiNDQwMTUiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
 
 vmess://eyJ2IjoiMiIsInBzIjoiMXzwn4ep8J+HqjMgfCAgMS4xTUIvcyIsImFkZCI6Ijg1LjIxNS4yMzMuMTc5IiwicG9ydCI6IjE2MTUxIiwidHlwZSI6Im5vbmUiLCJpZCI6IjQ0YmE3MDUzLTczM2YtNGQzNS05YmE0LTM0NTdlZTYwOGY2NCIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
@@ -195,6 +197,8 @@ vmess://eyJhZGQiOiAiNS4xODAuMzAuMTEwIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjog
 vmess://eyJhZGQiOiI0NS4xMi4xMzguNDciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMjg1OGE0MDQtZDBjYS00ZDY3LTgwYTYtY2U4ZTk1ZTM4M2ZmIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMjgzOSIsInBzIjoi8J+Muzg1QG9uZWNsaWNrdnBua2V5cyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
 vmess://eyJhZGQiOiI0NS4xMi4xMzguNDciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMjg1OGE0MDQtZDBjYS00ZDY3LTgwYTYtY2U4ZTk1ZTM4M2ZmIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMjgzOSIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5Njbwn4ep8J+HqiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+
+vmess://eyJhZGQiOiI0NS4xMi4xMzguNDciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMjg1OGE0MDQtZDBjYS00ZDY3LTgwYTYtY2U4ZTk1ZTM4M2ZmIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMjgzOSIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
 vmess://eyJhZGQiOiI0NS4xMi4xMzguNDciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMjg1OGE0MDQtZDBjYS00ZDY3LTgwYTYtY2U4ZTk1ZTM4M2ZmIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMjgzOSIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
@@ -218,8 +222,6 @@ vmess://eyJhZGQiOiJiaWlpYS12cG4td2hhbC5mYXN0Lmhvc3RpbmctaXAuY29tIiwiYWlkIjoiMCIs
 
 vmess://eyJhZGQiOiJibG9nLnRlbGUtc2hvcC10b28uc3R1ZGlvIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJKT0tFUlJWUE5fSk9LRVJSVlBOIiwiaWQiOiIyNmNmNTYyNC1mZmYwLTRhNjYtOTg0OC1kMmEwNzI1Mjk3YjIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMzMTU3IiwicHMiOiLinIXYs9ix2YjYsdmH2KfbjNio24zYtNiq2LHYr9ix2qnYp9mG2KfZhDpwcnJvZmlsZV9wdXJwbGVA4pyFIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
-vmess://eyJhZGQiOiJlbG1hLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmEzMjYzZTItODkxYy00NDQ2LWI0NzQtYThjNjNhY2I2ZTI1IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcy00MDcwIiwic2N5IjoiYXV0byIsInNuaSI6IjFmZFNOQTExOTIyODkyOE9wUzJzbVRhQjIyOGFBc0REc2QxZWExNDU3NjIzODExNC4yLXNlbmF0b3IuaW5mbyIsInRscyI6InRscyIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
-
 vmess://eyJhZGQiOiJrYXBlbGxlbmcuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJrYXBlbGxlbmcuY29tIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IuKchdiz2LHZiNix2YfYp9uM2KjbjNi02KrYsdiv2LHaqdin2YbYp9mEOnBycm9maWxlX3B1cnBsZUDinIUiLCJzY3kiOiJhdXRvIiwic25pIjoia2FwZWxsZW5nLmNvbSIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 
 vmess://eyJhZGQiOiJrYXBlbGxlbmcuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJrYXBlbGxlbmcuY29tIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyNURUxFR1JBTS1NQVJBTUJBU0hJX01BUkFNQkFTSEk/ZWRcdTAwM2Q1MTIiLCJwb3J0IjoiNDQzIiwicHMiOiJAbWVsaV9wcm94eXkiLCJzY3kiOiJhdXRvIiwic25pIjoia2FwZWxsZW5nLmNvbSIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
@@ -229,6 +231,4 @@ vmess://eyJhZGQiOiJzaS4xODA4LnNpdGUiLCJhaWQiOiIwIiwiaG9zdCI6Im9iZGlpLmNmZCIsImlk
 vmess://eyJhZGQiOiJzaS4xODA4LnNpdGUiLCJhaWQiOiIwIiwiaG9zdCI6ImNjMi4xODA4LnNpdGUiLCJpZCI6ImQzZDhiNzgxLWYzMGQtNDkwMi04ZWIwLTU4YjFjYTkzNmJlYyIsIm5ldCI6IndzIiwicGF0aCI6Ii9oZ3FxdndzIiwicG9ydCI6IjMwMDAyIiwicHMiOiJjbG91ZDItNCIsInNjeSI6ImF1dG8iLCJzbmkiOiJjYzIuMTgwOC5zaXRlIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
 vmess://eyJmcCI6IiIsInRscyI6Im5vbmUiLCJ2IjoiMiIsInNlZWQiOiIiLCJkZXZpY2VJRCI6IiIsImlkIjoiMjZjZjU2MjQtZmZmMC00YTY2LTk4NDgtZDJhMDcyNTI5N2IyIiwiaG9zdCI6IiIsInBzIjoiQG1lbGlfcHJveHl5IiwiYWRkIjoiYmxvZy50ZWxlLXNob3AtdG9vLnN0dWRpbyIsInBvcnQiOiIzMzE1NyIsImhlYWRlclR5cGUiOiJub25lIiwiYWlkIjoiMCIsInBhdGgiOiIiLCJ0eXBlIjoibm9uZSIsInNlcnZpY2VOYW1lIjoibm9uZSIsIm5ldCI6InRjcCIsInNuaSI6IiIsImFscG4iOiIifQ==
-
-vmess://eyJwYXRoIjoiXC8iLCJwcyI6IiglNDBWbWVzc1Byb3RvY29sKSVEOCVBOCVEOCVCMSVEOCVBNyVEQiU4QyUyMCVEOCVBRSVEOCVCMSVEQiU4QyVEOCVBRiUyMCVEOSU4OCUyMCVEOCVBNyVEOCVBQSVEOCVCNSVEOCVBNyVEOSU4NCUyMCVEOCVBRiVEOCVBNyVEOCVBNiVEOSU4NSVEQiU4QyUyMCVEOCVBQyVEOSU4OCVEQiU4QyVEOSU4NiUyMCVEOCVCNCVEOSU4OCVGMCU5RiU4NyVBOSVGMCU5RiU4NyVBQSUyMCIsIm5ldCI6IndzIiwicG9ydCI6Ijc2MTIiLCJzY3kiOiJhdXRvIiwiYWRkIjoiNzhlNTU3MzEtc3VwdHMwLXN5eWRkOC1rMDJzLmx6YS5wbGViYWkubmV0IiwiaG9zdCI6ImJyb2FkY2FzdGx2LmNoYXQuYmlsaWJpbGkuY29tIiwiaWQiOiJjOTE1ZGE0OC0zYmM1LTExZWMtYmQ3Yy1mMjNjOTEzYzhkMmIifQ==
 
