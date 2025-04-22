@@ -79,100 +79,101 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇨🇿 vless-f7558fe0 (Czechia)",
-        "🇺🇸 vless-d7fa489e (United States)",
-        "🇨🇿 vless-2b52fca8 (Czechia)",
-        "🇨🇦 vless-6777c70c (Canada)",
-        "🇨🇦 vless-aea29505 (Canada)",
-        "🇮🇷 vless-d34b49fa (Iran)",
-        "🇨🇦 vless-0e139cde (Canada)",
-        "🇨🇦 vless-7132d3fc (Canada)",
-        "🇨🇿 vless-f81b56d7 (Czechia)",
-        "🇨🇿 vless-2e9fdf1d (Czechia)",
-        "🇨🇦 vless-7f75ea9a (Canada)",
-        "🇨🇦 vless-1ad0fe42 (Canada)",
-        "🇨🇦 vless-c8a04e13 (Canada)",
-        "🇺🇸 vless-19e7f912 (United States)",
-        "🇨🇦 vless-932f77c7 (Canada)",
-        "🇨🇦 vless-861503b9 (Canada)",
-        "🇨🇦 vless-de31ecc3 (Canada)",
-        "🇨🇦 vless-bbe6af7e (Canada)",
-        "🇨🇦 vless-c900bbec (Canada)",
-        "🇨🇦 vless-8e850f0b (Canada)",
-        "🇨🇦 vless-96fcf8c1 (Canada)",
-        "🇨🇦 vless-a125ffdf (Canada)",
-        "🇨🇦 vless-24c3ccfb (Canada)",
-        "🇨🇦 vless-16e26c24 (Canada)",
-        "🇨🇦 vless-81c025ef (Canada)",
-        "🇩🇪 vless-fcba8e77 (Germany)",
-        "🇩🇪 vless-5e775ede (Germany)",
-        "🇨🇦 vless-7ffcb18a (Canada)",
-        "🇨🇦 trojan-0e9f7eb1 (Canada)",
-        "🇨🇦 trojan-38ff6df2 (Canada)",
-        "🇨🇦 trojan-62ba051a (Canada)",
-        "🇭🇰 trojan-841dae08 (Hong Kong)",
-        "🇨🇦 trojan-82a623a1 (Canada)",
-        "🇨🇦 trojan-15e8f9bf (Canada)",
-        "🇸🇪 trojan-fc872423 (Sweden)",
-        "🇬🇧 trojan-e1c8f1f9 (United Kingdom)",
-        "🇬🇧 trojan-6fb643d9 (United Kingdom)",
-        "🇳🇱 trojan-1a6e55d3 (The Netherlands)",
-        "🇳🇱 trojan-d306d51d (The Netherlands)",
-        "🇳🇱 trojan-cbb5106e (The Netherlands)",
-        "🇨🇦 trojan-e6354875 (Canada)",
-        "🇨🇦 trojan-750af787 (Canada)",
-        "🇫🇷 trojan-6fab5ec2 (France)",
-        "🇫🇷 trojan-a0a62fb8 (France)",
-        "🇫🇷 trojan-a5e4979e (France)",
-        "🇫🇷 trojan-39edd269 (France)",
-        "🇫🇷 trojan-501365cf (France)",
-        "🇸🇪 trojan-f5ce5666 (Sweden)",
-        "🇸🇪 trojan-6e73fc6b (Sweden)",
-        "🇫🇷 trojan-258597f0 (France)",
-        "🇫🇷 trojan-a7961d3d (France)",
-        "🇫🇷 trojan-c3e6557d (France)",
-        "🇫🇷 trojan-5d6771d4 (France)",
-        "🇬🇧 trojan-3025b99e (United Kingdom)",
-        "🇬🇧 trojan-b1599339 (United Kingdom)",
-        "🇩🇪 trojan-8912b5bc (Germany)",
-        "🇬🇧 ss-d3afcb30 (United Kingdom)",
-        "🇬🇧 ss-3dcf7481 (United Kingdom)",
-        "🇬🇧 ss-df774b62 (United Kingdom)",
-        "🇬🇧 ss-adbb957a (United Kingdom)",
-        "🇳🇱 ss-c17f48fb (The Netherlands)",
-        "🇳🇱 ss-a9bb7af1 (The Netherlands)",
-        "🇩🇪 ss-46ca83b7 (Germany)",
-        "🇬🇧 ss-6e571d52 (United Kingdom)",
-        "🇰🇷 ss-e9b404ac (South Korea)",
-        "🇺🇸 ss-fbffe3e7 (United States)",
-        "🇨🇦 vmess-0c6c16a8 (Canada)",
-        "🇺🇸 vmess-b66f6ba1 (United States)",
-        "🇩🇪 vmess-e06234e6 (Germany)",
-        "🇨🇳 vmess-9dde10f0 (China)",
-        "🇸🇬 vmess-3d3d10b9 (Singapore)",
-        "🇵🇱 vmess-3f48232c (Poland)",
-        "🇨🇦 vmess-7f69c5ec (Canada)",
-        "🇨🇦 vmess-38b80785 (Canada)",
-        "🇺🇦 vmess-ce6b2a64 (Ukraine)",
-        "🇨🇦 vmess-28c45da0 (Canada)",
-        "🇨🇦 vmess-57030b1d (Canada)",
-        "🇨🇦 vmess-8243e26a (Canada)",
-        "🇨🇦 vmess-2580bb5b (Canada)",
-        "🇨🇦 vmess-74911786 (Canada)",
-        "🇨🇦 vmess-e4624a15 (Canada)",
-        "🇨🇦 vmess-90875a05 (Canada)",
-        "🇨🇦 vmess-1cb2f303 (Canada)",
-        "🇨🇦 vmess-23cb2a9b (Canada)",
-        "🇨🇦 vmess-4e508f6f (Canada)",
-        "🇨🇦 vmess-a90ad2bb (Canada)",
-        "🇵🇱 vmess-20737423 (Poland)",
-        "🇮🇹 vmess-1fa3a9ed (Italy)",
-        "🇨🇦 vmess-4d4b787b (Canada)",
-        "🇨🇦 vmess-a4369e30 (Canada)",
-        "🇮🇷 vmess-38ac2883 (Iran)",
-        "🇨🇦 vmess-936cb2ec (Canada)",
-        "🇨🇦 vmess-89e0ed22 (Canada)",
-        "🇺🇸 vmess-627b01cd (United States)",
+        "🇨🇿 vless-9fbad7d6 (Czechia)",
+        "🇺🇸 vless-845e122d (United States)",
+        "🇨🇿 vless-15e1ce25 (Czechia)",
+        "🇨🇦 vless-837d13f0 (Canada)",
+        "🇨🇦 vless-9fd56ca8 (Canada)",
+        "🇨🇦 vless-aa9d3c4a (Canada)",
+        "🇨🇦 vless-a57fd79d (Canada)",
+        "🇨🇿 vless-e490aa40 (Czechia)",
+        "🇨🇿 vless-1b7cb4de (Czechia)",
+        "🇨🇿 vless-cad9c637 (Czechia)",
+        "🇨🇿 vless-7833f454 (Czechia)",
+        "🇨🇦 vless-cc7bcb25 (Canada)",
+        "🇺🇸 vless-949108c5 (United States)",
+        "🇺🇸 vless-511c6193 (United States)",
+        "🇨🇦 vless-2668aba7 (Canada)",
+        "🇨🇦 vless-6aedd31c (Canada)",
+        "🇨🇦 vless-f8fd6f8a (Canada)",
+        "🇨🇦 vless-8f39ec22 (Canada)",
+        "🇨🇦 vless-9ba0c0bd (Canada)",
+        "🇨🇦 vless-3fe74120 (Canada)",
+        "🇨🇦 vless-5b42c485 (Canada)",
+        "🇨🇦 vless-9f4ad7ff (Canada)",
+        "🇨🇦 vless-f48276d3 (Canada)",
+        "🇨🇦 vless-546879e0 (Canada)",
+        "🇨🇦 vless-a3a81929 (Canada)",
+        "🇩🇪 vless-41c35531 (Germany)",
+        "🇩🇪 vless-fbe1849a (Germany)",
+        "🇨🇦 vless-0f7d543d (Canada)",
+        "🇨🇦 trojan-c7073f16 (Canada)",
+        "🇨🇦 trojan-06378548 (Canada)",
+        "🇨🇦 trojan-3b5b1004 (Canada)",
+        "🇭🇰 trojan-ae9d5623 (Hong Kong)",
+        "🇭🇰 trojan-5cea134d (Hong Kong)",
+        "🇭🇰 trojan-5e576858 (Hong Kong)",
+        "🇨🇦 trojan-02a7fb9a (Canada)",
+        "🇨🇦 trojan-bbe6f8c4 (Canada)",
+        "🇨🇦 trojan-4b807723 (Canada)",
+        "🇸🇪 trojan-c6e46cb4 (Sweden)",
+        "🇸🇪 trojan-a284f1bf (Sweden)",
+        "🇳🇱 trojan-04481174 (The Netherlands)",
+        "🇨🇦 trojan-0bbe5070 (Canada)",
+        "🇨🇦 trojan-5d603024 (Canada)",
+        "🇫🇷 trojan-9768bcd5 (France)",
+        "🇫🇷 trojan-fff9f8a1 (France)",
+        "🇫🇷 trojan-949b071f (France)",
+        "🇫🇷 trojan-63609756 (France)",
+        "🇸🇪 trojan-f2e76ca5 (Sweden)",
+        "🇫🇷 trojan-d368f30e (France)",
+        "🇫🇷 trojan-9a2bba4f (France)",
+        "🇫🇷 trojan-e071c847 (France)",
+        "🇫🇷 trojan-04aba311 (France)",
+        "🇬🇧 trojan-9c182883 (United Kingdom)",
+        "🇬🇧 trojan-c217d391 (United Kingdom)",
+        "🇬🇧 trojan-4f124375 (United Kingdom)",
+        "🇩🇪 trojan-9461f3d5 (Germany)",
+        "🇩🇪 trojan-ff20dba8 (Germany)",
+        "🇬🇧 ss-bbb729a2 (United Kingdom)",
+        "🇬🇧 ss-6de1b1d0 (United Kingdom)",
+        "🇬🇧 ss-f1ef7b40 (United Kingdom)",
+        "🇬🇧 ss-ac97cb36 (United Kingdom)",
+        "🇳🇱 ss-cc744ed3 (The Netherlands)",
+        "🇳🇱 ss-cc032c9b (The Netherlands)",
+        "🇬🇧 ss-ff816ee9 (United Kingdom)",
+        "🇻🇪 ss-60556259 (Venezuela)",
+        "🇰🇷 ss-5609c0e2 (South Korea)",
+        "🇺🇸 ss-7e7f6fa2 (United States)",
+        "🇺🇸 ss-0b97a114 (United States)",
+        "🇨🇦 vmess-b1630883 (Canada)",
+        "🇺🇸 vmess-1091b226 (United States)",
+        "🇫🇷 vmess-a5222f79 (France)",
+        "🇵🇱 vmess-6e0697d1 (Poland)",
+        "🇨🇳 vmess-435837a4 (China)",
+        "🇸🇬 vmess-c84ccb3a (Singapore)",
+        "🇸🇬 vmess-53236f03 (Singapore)",
+        "🇨🇳 vmess-177deebb (China)",
+        "🇵🇱 vmess-c1f2b003 (Poland)",
+        "🇨🇦 vmess-c0710d31 (Canada)",
+        "🇺🇦 vmess-09f513ab (Ukraine)",
+        "🇨🇦 vmess-9bb14a91 (Canada)",
+        "🇨🇦 vmess-e703bca6 (Canada)",
+        "🇨🇦 vmess-102148f6 (Canada)",
+        "🇨🇦 vmess-243b9f11 (Canada)",
+        "🇨🇦 vmess-1fef705a (Canada)",
+        "🇨🇦 vmess-c85985f6 (Canada)",
+        "🇨🇦 vmess-f3404f71 (Canada)",
+        "🇨🇦 vmess-6731f432 (Canada)",
+        "🇨🇦 vmess-f6bedd78 (Canada)",
+        "🇨🇦 vmess-25d997a7 (Canada)",
+        "🇮🇹 vmess-d6c79764 (Italy)",
+        "🇨🇦 vmess-5c35c112 (Canada)",
+        "🇮🇷 vmess-c5035616 (Iran)",
+        "🇨🇦 vmess-b778b5e9 (Canada)",
+        "🇨🇦 vmess-fe3aec65 (Canada)",
+        "🏳️ vmess-90e951b9 (Unknown)",
+        "🇨🇦 vmess-72b681b3 (Canada)",
         "direct"
       ]
     },
@@ -180,100 +181,101 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇨🇿 vless-f7558fe0 (Czechia)",
-        "🇺🇸 vless-d7fa489e (United States)",
-        "🇨🇿 vless-2b52fca8 (Czechia)",
-        "🇨🇦 vless-6777c70c (Canada)",
-        "🇨🇦 vless-aea29505 (Canada)",
-        "🇮🇷 vless-d34b49fa (Iran)",
-        "🇨🇦 vless-0e139cde (Canada)",
-        "🇨🇦 vless-7132d3fc (Canada)",
-        "🇨🇿 vless-f81b56d7 (Czechia)",
-        "🇨🇿 vless-2e9fdf1d (Czechia)",
-        "🇨🇦 vless-7f75ea9a (Canada)",
-        "🇨🇦 vless-1ad0fe42 (Canada)",
-        "🇨🇦 vless-c8a04e13 (Canada)",
-        "🇺🇸 vless-19e7f912 (United States)",
-        "🇨🇦 vless-932f77c7 (Canada)",
-        "🇨🇦 vless-861503b9 (Canada)",
-        "🇨🇦 vless-de31ecc3 (Canada)",
-        "🇨🇦 vless-bbe6af7e (Canada)",
-        "🇨🇦 vless-c900bbec (Canada)",
-        "🇨🇦 vless-8e850f0b (Canada)",
-        "🇨🇦 vless-96fcf8c1 (Canada)",
-        "🇨🇦 vless-a125ffdf (Canada)",
-        "🇨🇦 vless-24c3ccfb (Canada)",
-        "🇨🇦 vless-16e26c24 (Canada)",
-        "🇨🇦 vless-81c025ef (Canada)",
-        "🇩🇪 vless-fcba8e77 (Germany)",
-        "🇩🇪 vless-5e775ede (Germany)",
-        "🇨🇦 vless-7ffcb18a (Canada)",
-        "🇨🇦 trojan-0e9f7eb1 (Canada)",
-        "🇨🇦 trojan-38ff6df2 (Canada)",
-        "🇨🇦 trojan-62ba051a (Canada)",
-        "🇭🇰 trojan-841dae08 (Hong Kong)",
-        "🇨🇦 trojan-82a623a1 (Canada)",
-        "🇨🇦 trojan-15e8f9bf (Canada)",
-        "🇸🇪 trojan-fc872423 (Sweden)",
-        "🇬🇧 trojan-e1c8f1f9 (United Kingdom)",
-        "🇬🇧 trojan-6fb643d9 (United Kingdom)",
-        "🇳🇱 trojan-1a6e55d3 (The Netherlands)",
-        "🇳🇱 trojan-d306d51d (The Netherlands)",
-        "🇳🇱 trojan-cbb5106e (The Netherlands)",
-        "🇨🇦 trojan-e6354875 (Canada)",
-        "🇨🇦 trojan-750af787 (Canada)",
-        "🇫🇷 trojan-6fab5ec2 (France)",
-        "🇫🇷 trojan-a0a62fb8 (France)",
-        "🇫🇷 trojan-a5e4979e (France)",
-        "🇫🇷 trojan-39edd269 (France)",
-        "🇫🇷 trojan-501365cf (France)",
-        "🇸🇪 trojan-f5ce5666 (Sweden)",
-        "🇸🇪 trojan-6e73fc6b (Sweden)",
-        "🇫🇷 trojan-258597f0 (France)",
-        "🇫🇷 trojan-a7961d3d (France)",
-        "🇫🇷 trojan-c3e6557d (France)",
-        "🇫🇷 trojan-5d6771d4 (France)",
-        "🇬🇧 trojan-3025b99e (United Kingdom)",
-        "🇬🇧 trojan-b1599339 (United Kingdom)",
-        "🇩🇪 trojan-8912b5bc (Germany)",
-        "🇬🇧 ss-d3afcb30 (United Kingdom)",
-        "🇬🇧 ss-3dcf7481 (United Kingdom)",
-        "🇬🇧 ss-df774b62 (United Kingdom)",
-        "🇬🇧 ss-adbb957a (United Kingdom)",
-        "🇳🇱 ss-c17f48fb (The Netherlands)",
-        "🇳🇱 ss-a9bb7af1 (The Netherlands)",
-        "🇩🇪 ss-46ca83b7 (Germany)",
-        "🇬🇧 ss-6e571d52 (United Kingdom)",
-        "🇰🇷 ss-e9b404ac (South Korea)",
-        "🇺🇸 ss-fbffe3e7 (United States)",
-        "🇨🇦 vmess-0c6c16a8 (Canada)",
-        "🇺🇸 vmess-b66f6ba1 (United States)",
-        "🇩🇪 vmess-e06234e6 (Germany)",
-        "🇨🇳 vmess-9dde10f0 (China)",
-        "🇸🇬 vmess-3d3d10b9 (Singapore)",
-        "🇵🇱 vmess-3f48232c (Poland)",
-        "🇨🇦 vmess-7f69c5ec (Canada)",
-        "🇨🇦 vmess-38b80785 (Canada)",
-        "🇺🇦 vmess-ce6b2a64 (Ukraine)",
-        "🇨🇦 vmess-28c45da0 (Canada)",
-        "🇨🇦 vmess-57030b1d (Canada)",
-        "🇨🇦 vmess-8243e26a (Canada)",
-        "🇨🇦 vmess-2580bb5b (Canada)",
-        "🇨🇦 vmess-74911786 (Canada)",
-        "🇨🇦 vmess-e4624a15 (Canada)",
-        "🇨🇦 vmess-90875a05 (Canada)",
-        "🇨🇦 vmess-1cb2f303 (Canada)",
-        "🇨🇦 vmess-23cb2a9b (Canada)",
-        "🇨🇦 vmess-4e508f6f (Canada)",
-        "🇨🇦 vmess-a90ad2bb (Canada)",
-        "🇵🇱 vmess-20737423 (Poland)",
-        "🇮🇹 vmess-1fa3a9ed (Italy)",
-        "🇨🇦 vmess-4d4b787b (Canada)",
-        "🇨🇦 vmess-a4369e30 (Canada)",
-        "🇮🇷 vmess-38ac2883 (Iran)",
-        "🇨🇦 vmess-936cb2ec (Canada)",
-        "🇨🇦 vmess-89e0ed22 (Canada)",
-        "🇺🇸 vmess-627b01cd (United States)"
+        "🇨🇿 vless-9fbad7d6 (Czechia)",
+        "🇺🇸 vless-845e122d (United States)",
+        "🇨🇿 vless-15e1ce25 (Czechia)",
+        "🇨🇦 vless-837d13f0 (Canada)",
+        "🇨🇦 vless-9fd56ca8 (Canada)",
+        "🇨🇦 vless-aa9d3c4a (Canada)",
+        "🇨🇦 vless-a57fd79d (Canada)",
+        "🇨🇿 vless-e490aa40 (Czechia)",
+        "🇨🇿 vless-1b7cb4de (Czechia)",
+        "🇨🇿 vless-cad9c637 (Czechia)",
+        "🇨🇿 vless-7833f454 (Czechia)",
+        "🇨🇦 vless-cc7bcb25 (Canada)",
+        "🇺🇸 vless-949108c5 (United States)",
+        "🇺🇸 vless-511c6193 (United States)",
+        "🇨🇦 vless-2668aba7 (Canada)",
+        "🇨🇦 vless-6aedd31c (Canada)",
+        "🇨🇦 vless-f8fd6f8a (Canada)",
+        "🇨🇦 vless-8f39ec22 (Canada)",
+        "🇨🇦 vless-9ba0c0bd (Canada)",
+        "🇨🇦 vless-3fe74120 (Canada)",
+        "🇨🇦 vless-5b42c485 (Canada)",
+        "🇨🇦 vless-9f4ad7ff (Canada)",
+        "🇨🇦 vless-f48276d3 (Canada)",
+        "🇨🇦 vless-546879e0 (Canada)",
+        "🇨🇦 vless-a3a81929 (Canada)",
+        "🇩🇪 vless-41c35531 (Germany)",
+        "🇩🇪 vless-fbe1849a (Germany)",
+        "🇨🇦 vless-0f7d543d (Canada)",
+        "🇨🇦 trojan-c7073f16 (Canada)",
+        "🇨🇦 trojan-06378548 (Canada)",
+        "🇨🇦 trojan-3b5b1004 (Canada)",
+        "🇭🇰 trojan-ae9d5623 (Hong Kong)",
+        "🇭🇰 trojan-5cea134d (Hong Kong)",
+        "🇭🇰 trojan-5e576858 (Hong Kong)",
+        "🇨🇦 trojan-02a7fb9a (Canada)",
+        "🇨🇦 trojan-bbe6f8c4 (Canada)",
+        "🇨🇦 trojan-4b807723 (Canada)",
+        "🇸🇪 trojan-c6e46cb4 (Sweden)",
+        "🇸🇪 trojan-a284f1bf (Sweden)",
+        "🇳🇱 trojan-04481174 (The Netherlands)",
+        "🇨🇦 trojan-0bbe5070 (Canada)",
+        "🇨🇦 trojan-5d603024 (Canada)",
+        "🇫🇷 trojan-9768bcd5 (France)",
+        "🇫🇷 trojan-fff9f8a1 (France)",
+        "🇫🇷 trojan-949b071f (France)",
+        "🇫🇷 trojan-63609756 (France)",
+        "🇸🇪 trojan-f2e76ca5 (Sweden)",
+        "🇫🇷 trojan-d368f30e (France)",
+        "🇫🇷 trojan-9a2bba4f (France)",
+        "🇫🇷 trojan-e071c847 (France)",
+        "🇫🇷 trojan-04aba311 (France)",
+        "🇬🇧 trojan-9c182883 (United Kingdom)",
+        "🇬🇧 trojan-c217d391 (United Kingdom)",
+        "🇬🇧 trojan-4f124375 (United Kingdom)",
+        "🇩🇪 trojan-9461f3d5 (Germany)",
+        "🇩🇪 trojan-ff20dba8 (Germany)",
+        "🇬🇧 ss-bbb729a2 (United Kingdom)",
+        "🇬🇧 ss-6de1b1d0 (United Kingdom)",
+        "🇬🇧 ss-f1ef7b40 (United Kingdom)",
+        "🇬🇧 ss-ac97cb36 (United Kingdom)",
+        "🇳🇱 ss-cc744ed3 (The Netherlands)",
+        "🇳🇱 ss-cc032c9b (The Netherlands)",
+        "🇬🇧 ss-ff816ee9 (United Kingdom)",
+        "🇻🇪 ss-60556259 (Venezuela)",
+        "🇰🇷 ss-5609c0e2 (South Korea)",
+        "🇺🇸 ss-7e7f6fa2 (United States)",
+        "🇺🇸 ss-0b97a114 (United States)",
+        "🇨🇦 vmess-b1630883 (Canada)",
+        "🇺🇸 vmess-1091b226 (United States)",
+        "🇫🇷 vmess-a5222f79 (France)",
+        "🇵🇱 vmess-6e0697d1 (Poland)",
+        "🇨🇳 vmess-435837a4 (China)",
+        "🇸🇬 vmess-c84ccb3a (Singapore)",
+        "🇸🇬 vmess-53236f03 (Singapore)",
+        "🇨🇳 vmess-177deebb (China)",
+        "🇵🇱 vmess-c1f2b003 (Poland)",
+        "🇨🇦 vmess-c0710d31 (Canada)",
+        "🇺🇦 vmess-09f513ab (Ukraine)",
+        "🇨🇦 vmess-9bb14a91 (Canada)",
+        "🇨🇦 vmess-e703bca6 (Canada)",
+        "🇨🇦 vmess-102148f6 (Canada)",
+        "🇨🇦 vmess-243b9f11 (Canada)",
+        "🇨🇦 vmess-1fef705a (Canada)",
+        "🇨🇦 vmess-c85985f6 (Canada)",
+        "🇨🇦 vmess-f3404f71 (Canada)",
+        "🇨🇦 vmess-6731f432 (Canada)",
+        "🇨🇦 vmess-f6bedd78 (Canada)",
+        "🇨🇦 vmess-25d997a7 (Canada)",
+        "🇮🇹 vmess-d6c79764 (Italy)",
+        "🇨🇦 vmess-5c35c112 (Canada)",
+        "🇮🇷 vmess-c5035616 (Iran)",
+        "🇨🇦 vmess-b778b5e9 (Canada)",
+        "🇨🇦 vmess-fe3aec65 (Canada)",
+        "🏳️ vmess-90e951b9 (Unknown)",
+        "🇨🇦 vmess-72b681b3 (Canada)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -285,7 +287,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇿 vless-f7558fe0 (Czechia)",
+      "tag": "🇨🇿 vless-9fbad7d6 (Czechia)",
       "server": "194.182.79.116",
       "server_port": 25243,
       "uuid": "%30%39%62%33%31%65%62%61%2d%32%35%34%64%2d%34%38%64%37%2d%62%39%62%61%2d%37%32%38%32%66%33%34%37%66%32%32%31",
@@ -299,7 +301,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇺🇸 vless-d7fa489e (United States)",
+      "tag": "🇺🇸 vless-845e122d (United States)",
       "server": "151.101.2.228",
       "server_port": 80,
       "uuid": "%39%65%66%64%63%37%31%32%2d%37%66%63%31%2d%34%64%31%35%2d%39%63%64%62%2d%39%37%66%37%37%34%61%34%34%37%35%64",
@@ -319,7 +321,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇿 vless-2b52fca8 (Czechia)",
+      "tag": "🇨🇿 vless-15e1ce25 (Czechia)",
       "server": "194.182.79.108",
       "server_port": 50513,
       "uuid": "%63%65%39%64%30%31%35%34%2d%65%64%61%64%2d%34%61%38%63%2d%61%63%63%61%2d%31%66%30%38%39%64%66%32%39%39%39%37",
@@ -333,7 +335,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 vless-6777c70c (Canada)",
+      "tag": "🇨🇦 vless-837d13f0 (Canada)",
       "server": "104.17.147.22",
       "server_port": 80,
       "uuid": "%66%66%37%34%30%34%37%36%2d%31%64%63%36%2d%34%64%34%37%2d%62%39%36%66%2d%65%61%66%64%64%34%32%66%62%39%63%63",
@@ -353,7 +355,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 vless-aea29505 (Canada)",
+      "tag": "🇨🇦 vless-9fd56ca8 (Canada)",
       "server": "www.speedtest.net",
       "server_port": 2086,
       "uuid": "---telegram--ISVvpn---1",
@@ -367,24 +369,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇮🇷 vless-d34b49fa (Iran)",
-      "server": "188.212.97.28",
-      "server_port": 31313,
-      "uuid": "01546a66-9978-472d-a59c-b43d3e450695",
-      "flow": "",
-      "tls": {
-        "enabled": true,
-        "server_name": "188.212.97.28",
-        "insecure": true
-      },
-      "transport": {
-        "path": "/",
-        "type": "ws"
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇨🇦 vless-0e139cde (Canada)",
+      "tag": "🇨🇦 vless-aa9d3c4a (Canada)",
       "server": "3qws.890617.xyz",
       "server_port": 443,
       "uuid": "0212fab5-e93c-4904-b7a8-187fd535f354",
@@ -404,7 +389,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 vless-7132d3fc (Canada)",
+      "tag": "🇨🇦 vless-a57fd79d (Canada)",
       "server": "3ws.938.pp.ua",
       "server_port": 443,
       "uuid": "0212fab5-e93c-4904-b7a8-187fd535f354",
@@ -424,7 +409,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇿 vless-f81b56d7 (Czechia)",
+      "tag": "🇨🇿 vless-e490aa40 (Czechia)",
       "server": "194.182.79.65",
       "server_port": 40359,
       "uuid": "03f7c539-4f5a-4d9c-84bf-815dda38bdcc",
@@ -438,7 +423,35 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇿 vless-2e9fdf1d (Czechia)",
+      "tag": "🇨🇿 vless-1b7cb4de (Czechia)",
+      "server": "194.182.79.65",
+      "server_port": 40359,
+      "uuid": "03f7c539-4f5a-4d9c-84bf-815dda38bdcc",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "194.182.79.65",
+        "insecure": true
+      },
+      "transport": {}
+    },
+    {
+      "type": "vless",
+      "tag": "🇨🇿 vless-cad9c637 (Czechia)",
+      "server": "194.182.79.65",
+      "server_port": 40359,
+      "uuid": "03f7c539-4f5a-4d9c-84bf-815dda38bdcc",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "194.182.79.65",
+        "insecure": true
+      },
+      "transport": {}
+    },
+    {
+      "type": "vless",
+      "tag": "🇨🇿 vless-7833f454 (Czechia)",
       "server": "194.182.79.116",
       "server_port": 25243,
       "uuid": "09b31eba-254d-48d7-b9ba-7282f347f221",
@@ -452,21 +465,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 vless-7f75ea9a (Canada)",
-      "server": "website.amin-app.ir",
-      "server_port": 2082,
-      "uuid": "0a6f34c4-39a7-4a27-914c-9d9ec9b57a89",
-      "flow": "",
-      "tls": {
-        "enabled": true,
-        "server_name": "website.amin-app.ir",
-        "insecure": true
-      },
-      "transport": {}
-    },
-    {
-      "type": "vless",
-      "tag": "🇨🇦 vless-1ad0fe42 (Canada)",
+      "tag": "🇨🇦 vless-cc7bcb25 (Canada)",
       "server": "website.amin-app.ir",
       "server_port": 8880,
       "uuid": "0a6f34c4-39a7-4a27-914c-9d9ec9b57a89",
@@ -486,27 +485,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 vless-c8a04e13 (Canada)",
-      "server": "www.speedtest.net",
-      "server_port": 8880,
-      "uuid": "0a6f34c4-39a7-4a27-914c-9d9ec9b57a89",
-      "flow": "",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.speedtest.net",
-        "insecure": true
-      },
-      "transport": {
-        "path": "/Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420?ed=2048",
-        "headers": {
-          "Host": "vihypercloud.academigroup.ir."
-        },
-        "type": "ws"
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇺🇸 vless-19e7f912 (United States)",
+      "tag": "🇺🇸 vless-949108c5 (United States)",
       "server": "154.17.236.159",
       "server_port": 443,
       "uuid": "0bec912d-d0b9-42e1-ae34-9236a453ff93",
@@ -526,7 +505,27 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 vless-932f77c7 (Canada)",
+      "tag": "🇺🇸 vless-511c6193 (United States)",
+      "server": "154.17.236.159",
+      "server_port": 443,
+      "uuid": "0bec912d-d0b9-42e1-ae34-9236a453ff93",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "usb.cayuo.me",
+        "insecure": true
+      },
+      "transport": {
+        "path": "/bing",
+        "headers": {
+          "Host": "usb.cayuo.me"
+        },
+        "type": "ws"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇨🇦 vless-2668aba7 (Canada)",
       "server": "104.16.186.41",
       "server_port": 443,
       "uuid": "102e5f34-1913-4dd3-a1f2-f831d891a490",
@@ -546,7 +545,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 vless-861503b9 (Canada)",
+      "tag": "🇨🇦 vless-6aedd31c (Canada)",
       "server": "104.16.187.41",
       "server_port": 443,
       "uuid": "102e5f34-1913-4dd3-a1f2-f831d891a490",
@@ -566,7 +565,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 vless-de31ecc3 (Canada)",
+      "tag": "🇨🇦 vless-f8fd6f8a (Canada)",
       "server": "104.16.190.41",
       "server_port": 443,
       "uuid": "102e5f34-1913-4dd3-a1f2-f831d891a490",
@@ -586,7 +585,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 vless-bbe6af7e (Canada)",
+      "tag": "🇨🇦 vless-8f39ec22 (Canada)",
       "server": "104.16.190.41",
       "server_port": 443,
       "uuid": "102e5f34-1913-4dd3-a1f2-f831d891a490",
@@ -606,7 +605,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 vless-c900bbec (Canada)",
+      "tag": "🇨🇦 vless-9ba0c0bd (Canada)",
       "server": "www.speedtest.net",
       "server_port": 80,
       "uuid": "148ff673-b389-4b67-82c3-ae5225f2ce33",
@@ -626,7 +625,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 vless-8e850f0b (Canada)",
+      "tag": "🇨🇦 vless-3fe74120 (Canada)",
       "server": "162.159.1.33",
       "server_port": 443,
       "uuid": "15298f41-e80b-463a-b85b-0c903258a1c8",
@@ -646,7 +645,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 vless-96fcf8c1 (Canada)",
+      "tag": "🇨🇦 vless-5b42c485 (Canada)",
       "server": "162.159.1.33",
       "server_port": 443,
       "uuid": "15298f41-e80b-463a-b85b-0c903258a1c8",
@@ -666,7 +665,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 vless-a125ffdf (Canada)",
+      "tag": "🇨🇦 vless-9f4ad7ff (Canada)",
       "server": "162.159.8.55",
       "server_port": 443,
       "uuid": "15298f41-e80b-463a-b85b-0c903258a1c8",
@@ -685,7 +684,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 vless-24c3ccfb (Canada)",
+      "tag": "🇨🇦 vless-f48276d3 (Canada)",
       "server": "46bac781.2032.pp.ua",
       "server_port": 443,
       "uuid": "15b24b56-d667-4fa8-b548-f3dc942fb461",
@@ -705,7 +704,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 vless-16e26c24 (Canada)",
+      "tag": "🇨🇦 vless-546879e0 (Canada)",
       "server": "d3332856-cd74.2032.pp.ua",
       "server_port": 443,
       "uuid": "15b24b56-d667-4fa8-b548-f3dc942fb461",
@@ -725,7 +724,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 vless-81c025ef (Canada)",
+      "tag": "🇨🇦 vless-a3a81929 (Canada)",
       "server": "e6422f63-7b49-4b50-b862-9f38.2031.pp.ua",
       "server_port": 443,
       "uuid": "15b24b56-d667-4fa8-b548-f3dc942fb461",
@@ -745,7 +744,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇩🇪 vless-fcba8e77 (Germany)",
+      "tag": "🇩🇪 vless-41c35531 (Germany)",
       "server": "23.88.62.209",
       "server_port": 2089,
       "uuid": "15f858a5-3b51-4fe1-a66b-39871f86cc3f",
@@ -759,7 +758,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇩🇪 vless-5e775ede (Germany)",
+      "tag": "🇩🇪 vless-fbe1849a (Germany)",
       "server": "23.88.62.209",
       "server_port": 2089,
       "uuid": "15f858a5-3b51-4fe1-a66b-39871f86cc3f",
@@ -773,7 +772,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 vless-7ffcb18a (Canada)",
+      "tag": "🇨🇦 vless-0f7d543d (Canada)",
       "server": "104.19.77.118",
       "server_port": 443,
       "uuid": "1688039e-a45f-499e-b9f4-c098c87d3b32",
@@ -793,7 +792,7 @@
     },
     {
       "type": "trojan",
-      "tag": "🇨🇦 trojan-0e9f7eb1 (Canada)",
+      "tag": "🇨🇦 trojan-c7073f16 (Canada)",
       "server": "3sxcvbb.890617.xyz",
       "server_port": 443,
       "password": "0212fab5-e93c-4904-b7a8-187fd535f354",
@@ -812,7 +811,7 @@
     },
     {
       "type": "trojan",
-      "tag": "🇨🇦 trojan-38ff6df2 (Canada)",
+      "tag": "🇨🇦 trojan-06378548 (Canada)",
       "server": "3wsxcvbn.890617.xyz",
       "server_port": 443,
       "password": "0212fab5-e93c-4904-b7a8-187fd535f354",
@@ -831,7 +830,7 @@
     },
     {
       "type": "trojan",
-      "tag": "🇨🇦 trojan-62ba051a (Canada)",
+      "tag": "🇨🇦 trojan-3b5b1004 (Canada)",
       "server": "2qwert.2031.pp.ua",
       "server_port": 443,
       "password": "15b24b56-d667-4fa8-b548-f3dc942fb461",
@@ -850,7 +849,7 @@
     },
     {
       "type": "trojan",
-      "tag": "🇭🇰 trojan-841dae08 (Hong Kong)",
+      "tag": "🇭🇰 trojan-ae9d5623 (Hong Kong)",
       "server": "sla.cn.964e995b760.gogodns.xin",
       "server_port": 27408,
       "password": "292f149a-33cb-4ecd-b432-5447764ea339",
@@ -864,7 +863,35 @@
     },
     {
       "type": "trojan",
-      "tag": "🇨🇦 trojan-82a623a1 (Canada)",
+      "tag": "🇭🇰 trojan-5cea134d (Hong Kong)",
+      "server": "sla.cn.964e995b760.gogodns.xin",
+      "server_port": 27408,
+      "password": "292f149a-33cb-4ecd-b432-5447764ea339",
+      "tls": {
+        "enabled": true,
+        "server_name": "q08m.vgraxiw73s.hasyaf.cn",
+        "alpn": [],
+        "insecure": true
+      },
+      "transport": {}
+    },
+    {
+      "type": "trojan",
+      "tag": "🇭🇰 trojan-5e576858 (Hong Kong)",
+      "server": "sla.cn.964e995b760.gogodns.xin",
+      "server_port": 27408,
+      "password": "292f149a-33cb-4ecd-b432-5447764ea339",
+      "tls": {
+        "enabled": true,
+        "server_name": "q08m.vgraxiw73s.hasyaf.cn",
+        "alpn": [],
+        "insecure": true
+      },
+      "transport": {}
+    },
+    {
+      "type": "trojan",
+      "tag": "🇨🇦 trojan-02a7fb9a (Canada)",
       "server": "1sdfghjk.890602.xyz",
       "server_port": 443,
       "password": "5453ae26-250d-4e79-b4ec-016baf806865",
@@ -883,7 +910,7 @@
     },
     {
       "type": "trojan",
-      "tag": "🇨🇦 trojan-15e8f9bf (Canada)",
+      "tag": "🇨🇦 trojan-bbe6f8c4 (Canada)",
       "server": "d05f4aa7-92b1-a659-e3b9-695dd2870b3c.131.pp.ua",
       "server_port": 443,
       "password": "5453ae26-250d-4e79-b4ec-016baf806865",
@@ -902,7 +929,26 @@
     },
     {
       "type": "trojan",
-      "tag": "🇸🇪 trojan-fc872423 (Sweden)",
+      "tag": "🇨🇦 trojan-4b807723 (Canada)",
+      "server": "d05f4aa7-92b1-a659-e3b9-695dd2870b3c.131.pp.ua",
+      "server_port": 443,
+      "password": "5453ae26-250d-4e79-b4ec-016baf806865",
+      "tls": {
+        "enabled": true,
+        "server_name": "D05F4aA7-92B1-a659-E3b9-695Dd2870B3c.131.Pp.UA",
+        "alpn": [
+          "http/1.1"
+        ],
+        "insecure": true
+      },
+      "transport": {
+        "path": "/OYzPAeaZdXUq2d6J3gc4aj",
+        "type": "ws"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇸🇪 trojan-c6e46cb4 (Sweden)",
       "server": "141.227.160.167",
       "server_port": 1935,
       "password": "AXpQXM4vNh",
@@ -916,13 +962,13 @@
     },
     {
       "type": "trojan",
-      "tag": "🇬🇧 trojan-e1c8f1f9 (United Kingdom)",
-      "server": "www.ak-hk.top",
-      "server_port": 10230,
-      "password": "b19c4375-d847-4c40-9824-4767c88b5f38",
+      "tag": "🇸🇪 trojan-a284f1bf (Sweden)",
+      "server": "141.227.160.167",
+      "server_port": 1935,
+      "password": "AXpQXM4vNh",
       "tls": {
         "enabled": true,
-        "server_name": "www.ak-hk.top",
+        "server_name": "x2swe-ovh.devefun.net",
         "alpn": [],
         "insecure": true
       },
@@ -930,21 +976,7 @@
     },
     {
       "type": "trojan",
-      "tag": "🇬🇧 trojan-6fb643d9 (United Kingdom)",
-      "server": "www.ak-hk.top",
-      "server_port": 10230,
-      "password": "b19c4375-d847-4c40-9824-4767c88b5f38",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.ak-hk.top",
-        "alpn": [],
-        "insecure": true
-      },
-      "transport": {}
-    },
-    {
-      "type": "trojan",
-      "tag": "🇳🇱 trojan-1a6e55d3 (The Netherlands)",
+      "tag": "🇳🇱 trojan-04481174 (The Netherlands)",
       "server": "51.15.86.181",
       "server_port": 1935,
       "password": "eG92F3gh09",
@@ -958,35 +990,7 @@
     },
     {
       "type": "trojan",
-      "tag": "🇳🇱 trojan-d306d51d (The Netherlands)",
-      "server": "51.15.86.181",
-      "server_port": 1935,
-      "password": "eG92F3gh09",
-      "tls": {
-        "enabled": true,
-        "server_name": "x1ams-scaleway.devefun.net",
-        "alpn": [],
-        "insecure": true
-      },
-      "transport": {}
-    },
-    {
-      "type": "trojan",
-      "tag": "🇳🇱 trojan-cbb5106e (The Netherlands)",
-      "server": "51.15.86.181",
-      "server_port": 1935,
-      "password": "eG92F3gh09",
-      "tls": {
-        "enabled": true,
-        "server_name": "x1ams-scaleway.devefun.net",
-        "alpn": [],
-        "insecure": true
-      },
-      "transport": {}
-    },
-    {
-      "type": "trojan",
-      "tag": "🇨🇦 trojan-e6354875 (Canada)",
+      "tag": "🇨🇦 trojan-0bbe5070 (Canada)",
       "server": "104.21.96.1",
       "server_port": 443,
       "password": "psycho",
@@ -1005,7 +1009,7 @@
     },
     {
       "type": "trojan",
-      "tag": "🇨🇦 trojan-750af787 (Canada)",
+      "tag": "🇨🇦 trojan-5d603024 (Canada)",
       "server": "104.21.96.1",
       "server_port": 443,
       "password": "psycho",
@@ -1024,7 +1028,7 @@
     },
     {
       "type": "trojan",
-      "tag": "🇫🇷 trojan-6fab5ec2 (France)",
+      "tag": "🇫🇷 trojan-9768bcd5 (France)",
       "server": "13.36.122.150",
       "server_port": 22222,
       "password": "telegram-id-directvpn",
@@ -1040,7 +1044,7 @@
     },
     {
       "type": "trojan",
-      "tag": "🇫🇷 trojan-a0a62fb8 (France)",
+      "tag": "🇫🇷 trojan-fff9f8a1 (France)",
       "server": "13.38.175.202",
       "server_port": 22222,
       "password": "telegram-id-directvpn",
@@ -1056,23 +1060,7 @@
     },
     {
       "type": "trojan",
-      "tag": "🇫🇷 trojan-a5e4979e (France)",
-      "server": "13.38.175.202",
-      "server_port": 22222,
-      "password": "telegram-id-directvpn",
-      "tls": {
-        "enabled": true,
-        "server_name": "trojan.burgerip.co.uk",
-        "alpn": [
-          "http/1.1"
-        ],
-        "insecure": true
-      },
-      "transport": {}
-    },
-    {
-      "type": "trojan",
-      "tag": "🇫🇷 trojan-39edd269 (France)",
+      "tag": "🇫🇷 trojan-949b071f (France)",
       "server": "13.38.212.60",
       "server_port": 22222,
       "password": "telegram-id-directvpn",
@@ -1088,7 +1076,7 @@
     },
     {
       "type": "trojan",
-      "tag": "🇫🇷 trojan-501365cf (France)",
+      "tag": "🇫🇷 trojan-63609756 (France)",
       "server": "13.38.212.60",
       "server_port": 22222,
       "password": "telegram-id-directvpn",
@@ -1104,23 +1092,7 @@
     },
     {
       "type": "trojan",
-      "tag": "🇸🇪 trojan-f5ce5666 (Sweden)",
-      "server": "13.51.117.155",
-      "server_port": 22222,
-      "password": "telegram-id-directvpn",
-      "tls": {
-        "enabled": true,
-        "server_name": "trojan.burgerip.co.uk",
-        "alpn": [
-          "http/1.1"
-        ],
-        "insecure": true
-      },
-      "transport": {}
-    },
-    {
-      "type": "trojan",
-      "tag": "🇸🇪 trojan-6e73fc6b (Sweden)",
+      "tag": "🇸🇪 trojan-f2e76ca5 (Sweden)",
       "server": "13.61.163.84",
       "server_port": 22222,
       "password": "telegram-id-directvpn",
@@ -1136,7 +1108,7 @@
     },
     {
       "type": "trojan",
-      "tag": "🇫🇷 trojan-258597f0 (France)",
+      "tag": "🇫🇷 trojan-d368f30e (France)",
       "server": "15.237.147.194",
       "server_port": 22222,
       "password": "telegram-id-directvpn",
@@ -1152,7 +1124,7 @@
     },
     {
       "type": "trojan",
-      "tag": "🇫🇷 trojan-a7961d3d (France)",
+      "tag": "🇫🇷 trojan-9a2bba4f (France)",
       "server": "15.237.163.212",
       "server_port": 22222,
       "password": "telegram-id-directvpn",
@@ -1168,7 +1140,7 @@
     },
     {
       "type": "trojan",
-      "tag": "🇫🇷 trojan-c3e6557d (France)",
+      "tag": "🇫🇷 trojan-e071c847 (France)",
       "server": "15.237.165.69",
       "server_port": 22222,
       "password": "telegram-id-directvpn",
@@ -1184,7 +1156,7 @@
     },
     {
       "type": "trojan",
-      "tag": "🇫🇷 trojan-5d6771d4 (France)",
+      "tag": "🇫🇷 trojan-04aba311 (France)",
       "server": "15.237.91.185",
       "server_port": 22222,
       "password": "telegram-id-directvpn",
@@ -1200,7 +1172,7 @@
     },
     {
       "type": "trojan",
-      "tag": "🇬🇧 trojan-3025b99e (United Kingdom)",
+      "tag": "🇬🇧 trojan-9c182883 (United Kingdom)",
       "server": "18.132.108.242",
       "server_port": 22222,
       "password": "telegram-id-directvpn",
@@ -1216,7 +1188,7 @@
     },
     {
       "type": "trojan",
-      "tag": "🇬🇧 trojan-b1599339 (United Kingdom)",
+      "tag": "🇬🇧 trojan-c217d391 (United Kingdom)",
       "server": "18.168.170.0",
       "server_port": 22222,
       "password": "telegram-id-directvpn",
@@ -1232,7 +1204,23 @@
     },
     {
       "type": "trojan",
-      "tag": "🇩🇪 trojan-8912b5bc (Germany)",
+      "tag": "🇬🇧 trojan-4f124375 (United Kingdom)",
+      "server": "18.168.212.166",
+      "server_port": 22222,
+      "password": "telegram-id-directvpn",
+      "tls": {
+        "enabled": true,
+        "server_name": "trojan.burgerip.co.uk",
+        "alpn": [
+          "http/1.1"
+        ],
+        "insecure": true
+      },
+      "transport": {}
+    },
+    {
+      "type": "trojan",
+      "tag": "🇩🇪 trojan-9461f3d5 (Germany)",
       "server": "18.184.148.1",
       "server_port": 22222,
       "password": "telegram-id-directvpn",
@@ -1247,8 +1235,24 @@
       "transport": {}
     },
     {
+      "type": "trojan",
+      "tag": "🇩🇪 trojan-ff20dba8 (Germany)",
+      "server": "18.195.112.13",
+      "server_port": 22222,
+      "password": "telegram-id-directvpn",
+      "tls": {
+        "enabled": true,
+        "server_name": "trojan.burgerip.co.uk",
+        "alpn": [
+          "http/1.1"
+        ],
+        "insecure": true
+      },
+      "transport": {}
+    },
+    {
       "type": "shadowsocks",
-      "tag": "🇬🇧 ss-d3afcb30 (United Kingdom)",
+      "tag": "🇬🇧 ss-bbb729a2 (United Kingdom)",
       "server": "131.145.95.220",
       "server_port": 443,
       "method": "chacha20-ietf-poly1305",
@@ -1256,7 +1260,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇬🇧 ss-3dcf7481 (United Kingdom)",
+      "tag": "🇬🇧 ss-6de1b1d0 (United Kingdom)",
       "server": "74.177.139.60",
       "server_port": 443,
       "method": "chacha20-ietf-poly1305",
@@ -1264,7 +1268,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇬🇧 ss-df774b62 (United Kingdom)",
+      "tag": "🇬🇧 ss-f1ef7b40 (United Kingdom)",
       "server": "74.177.139.60",
       "server_port": 443,
       "method": "chacha20-ietf-poly1305",
@@ -1272,7 +1276,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇬🇧 ss-adbb957a (United Kingdom)",
+      "tag": "🇬🇧 ss-ac97cb36 (United Kingdom)",
       "server": "85.210.120.237",
       "server_port": 443,
       "method": "chacha20-ietf-poly1305",
@@ -1280,7 +1284,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇳🇱 ss-c17f48fb (The Netherlands)",
+      "tag": "🇳🇱 ss-cc744ed3 (The Netherlands)",
       "server": "178.208.78.170",
       "server_port": 23822,
       "method": "chacha20-ietf-poly1305",
@@ -1288,7 +1292,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇳🇱 ss-a9bb7af1 (The Netherlands)",
+      "tag": "🇳🇱 ss-cc032c9b (The Netherlands)",
       "server": "194.124.250.4",
       "server_port": 8388,
       "method": "chacha20-ietf-poly1305",
@@ -1296,15 +1300,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇩🇪 ss-46ca83b7 (Germany)",
-      "server": "81.19.141.45",
-      "server_port": 443,
-      "method": "chacha20-ietf-poly1305",
-      "password": "Tm8UJys1dfSQqbDZ5anOsa"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇬🇧 ss-6e571d52 (United Kingdom)",
+      "tag": "🇬🇧 ss-ff816ee9 (United Kingdom)",
       "server": "series-a2.samanehha.co",
       "server_port": 443,
       "method": "chacha20-ietf-poly1305",
@@ -1312,7 +1308,15 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇰🇷 ss-e9b404ac (South Korea)",
+      "tag": "🇻🇪 ss-60556259 (Venezuela)",
+      "server": "45.158.171.146",
+      "server_port": 8080,
+      "method": "chacha20-ietf-poly1305",
+      "password": "cvII85TrW6n0OGyfpHVS1u"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇰🇷 ss-5609c0e2 (South Korea)",
       "server": "154.90.63.193",
       "server_port": 990,
       "method": "chacha20-ietf-poly1305",
@@ -1320,7 +1324,15 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇺🇸 ss-fbffe3e7 (United States)",
+      "tag": "🇺🇸 ss-7e7f6fa2 (United States)",
+      "server": "45.87.175.22",
+      "server_port": 8080,
+      "method": "chacha20-ietf-poly1305",
+      "password": "oZIoA69Q8yhcQV8ka3Pa3A"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇺🇸 ss-0b97a114 (United States)",
       "server": "67.220.95.135",
       "server_port": 8090,
       "method": "aes-256-gcm",
@@ -1328,7 +1340,7 @@
     },
     {
       "type": "vmess",
-      "tag": "🇨🇦 vmess-0c6c16a8 (Canada)",
+      "tag": "🇨🇦 vmess-b1630883 (Canada)",
       "server": "104.21.9.236",
       "server_port": 443,
       "uuid": "62aa5f80-0328-4004-a375-7f5a59df4022",
@@ -1349,7 +1361,7 @@
     },
     {
       "type": "vmess",
-      "tag": "🇺🇸 vmess-b66f6ba1 (United States)",
+      "tag": "🇺🇸 vmess-1091b226 (United States)",
       "server": "b7e48b1f-sv4n40-szauko-ca62.se.plebai.net",
       "server_port": 8182,
       "uuid": "8cd36066-1395-11ed-bb74-f23c9164ca5d",
@@ -1370,7 +1382,28 @@
     },
     {
       "type": "vmess",
-      "tag": "🇩🇪 vmess-e06234e6 (Germany)",
+      "tag": "🇫🇷 vmess-a5222f79 (France)",
+      "server": "hms19.best-tizi.top",
+      "server_port": 443,
+      "uuid": "62aa5f80-0328-4004-a375-7f5a59df4022",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "path": "/linkws",
+        "headers": {
+          "Host": "hms19.best-tizi.top"
+        },
+        "type": "ws"
+      },
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "hms19.best-tizi.top"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇵🇱 vmess-6e0697d1 (Poland)",
       "server": "kapelleng.com",
       "server_port": 443,
       "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
@@ -1391,7 +1424,7 @@
     },
     {
       "type": "vmess",
-      "tag": "🇨🇳 vmess-9dde10f0 (China)",
+      "tag": "🇨🇳 vmess-435837a4 (China)",
       "server": "v7.heduian.link",
       "server_port": 30807,
       "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484",
@@ -1412,7 +1445,7 @@
     },
     {
       "type": "vmess",
-      "tag": "🇸🇬 vmess-3d3d10b9 (Singapore)",
+      "tag": "🇸🇬 vmess-c84ccb3a (Singapore)",
       "server": "154.26.134.106",
       "server_port": 14129,
       "uuid": "e7798e09-3090-4366-ae80-f18afdaabf4f",
@@ -1427,7 +1460,43 @@
     },
     {
       "type": "vmess",
-      "tag": "🇵🇱 vmess-3f48232c (Poland)",
+      "tag": "🇸🇬 vmess-53236f03 (Singapore)",
+      "server": "154.26.134.106",
+      "server_port": 14129,
+      "uuid": "e7798e09-3090-4366-ae80-f18afdaabf4f",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {},
+      "tls": {
+        "enabled": false,
+        "insecure": true,
+        "server_name": ""
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇨🇳 vmess-177deebb (China)",
+      "server": "v7.heduian.link",
+      "server_port": 30807,
+      "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484",
+      "security": "auto",
+      "alter_id": 2,
+      "transport": {
+        "path": "/oooo",
+        "headers": {
+          "Host": "ocbc.com"
+        },
+        "type": "ws"
+      },
+      "tls": {
+        "enabled": false,
+        "insecure": true,
+        "server_name": ""
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇵🇱 vmess-c1f2b003 (Poland)",
       "server": "141.101.120.229",
       "server_port": 2096,
       "uuid": "3bb3c730-e107-49c5-a0b2-b576d1b26a5e",
@@ -1448,22 +1517,7 @@
     },
     {
       "type": "vmess",
-      "tag": "🇨🇦 vmess-7f69c5ec (Canada)",
-      "server": "173.245.58.100",
-      "server_port": 2052,
-      "uuid": "0f427f89-3aa4-4641-9e58-9ff0cc1cbfae",
-      "security": "auto",
-      "alter_id": 0,
-      "transport": {},
-      "tls": {
-        "enabled": false,
-        "insecure": true,
-        "server_name": ""
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "🇨🇦 vmess-38b80785 (Canada)",
+      "tag": "🇨🇦 vmess-c0710d31 (Canada)",
       "server": "91.194.11.178",
       "server_port": 28984,
       "uuid": "9b2335af-f24c-4810-9c34-95568ebd579d",
@@ -1478,7 +1532,7 @@
     },
     {
       "type": "vmess",
-      "tag": "🇺🇦 vmess-ce6b2a64 (Ukraine)",
+      "tag": "🇺🇦 vmess-09f513ab (Ukraine)",
       "server": "45.137.155.45",
       "server_port": 17646,
       "uuid": "82734724-8c06-4c2e-9cff-b34776fe1757",
@@ -1493,7 +1547,7 @@
     },
     {
       "type": "vmess",
-      "tag": "🇨🇦 vmess-28c45da0 (Canada)",
+      "tag": "🇨🇦 vmess-9bb14a91 (Canada)",
       "server": "7fa54343-7c0a-45c9.2031.pp.ua",
       "server_port": 443,
       "uuid": "15b24b56-d667-4fa8-b548-f3dc942fb461",
@@ -1514,7 +1568,28 @@
     },
     {
       "type": "vmess",
-      "tag": "🇨🇦 vmess-57030b1d (Canada)",
+      "tag": "🇨🇦 vmess-e703bca6 (Canada)",
+      "server": "7fa54343-7c0a-45c9.2031.pp.ua",
+      "server_port": 443,
+      "uuid": "15b24b56-d667-4fa8-b548-f3dc942fb461",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "path": "/usYhm60UxQ8YJFJxz",
+        "headers": {
+          "Host": "7fa54343-7c0a-45c9.2031.pp.ua"
+        },
+        "type": "ws"
+      },
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "7fa54343-7c0a-45c9.2031.pp.ua"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇨🇦 vmess-102148f6 (Canada)",
       "server": "91.194.11.118",
       "server_port": 27699,
       "uuid": "c23b127b-af87-43bb-aa1e-ce42374a2b53",
@@ -1529,7 +1604,7 @@
     },
     {
       "type": "vmess",
-      "tag": "🇨🇦 vmess-8243e26a (Canada)",
+      "tag": "🇨🇦 vmess-243b9f11 (Canada)",
       "server": "91.194.11.118",
       "server_port": 27699,
       "uuid": "c23b127b-af87-43bb-aa1e-ce42374a2b53",
@@ -1544,7 +1619,7 @@
     },
     {
       "type": "vmess",
-      "tag": "🇨🇦 vmess-2580bb5b (Canada)",
+      "tag": "🇨🇦 vmess-1fef705a (Canada)",
       "server": "91.194.11.162",
       "server_port": 58891,
       "uuid": "4439cf3e-d072-4a5b-88b2-2a2ec6d71340",
@@ -1559,7 +1634,7 @@
     },
     {
       "type": "vmess",
-      "tag": "🇨🇦 vmess-74911786 (Canada)",
+      "tag": "🇨🇦 vmess-c85985f6 (Canada)",
       "server": "91.194.11.162",
       "server_port": 58891,
       "uuid": "4439cf3e-d072-4a5b-88b2-2a2ec6d71340",
@@ -1574,7 +1649,7 @@
     },
     {
       "type": "vmess",
-      "tag": "🇨🇦 vmess-e4624a15 (Canada)",
+      "tag": "🇨🇦 vmess-f3404f71 (Canada)",
       "server": "91.194.11.162",
       "server_port": 58891,
       "uuid": "4439cf3e-d072-4a5b-88b2-2a2ec6d71340",
@@ -1589,7 +1664,7 @@
     },
     {
       "type": "vmess",
-      "tag": "🇨🇦 vmess-90875a05 (Canada)",
+      "tag": "🇨🇦 vmess-6731f432 (Canada)",
       "server": "91.194.11.178",
       "server_port": 28984,
       "uuid": "9b2335af-f24c-4810-9c34-95568ebd579d",
@@ -1604,22 +1679,7 @@
     },
     {
       "type": "vmess",
-      "tag": "🇨🇦 vmess-1cb2f303 (Canada)",
-      "server": "91.194.11.178",
-      "server_port": 28984,
-      "uuid": "9b2335af-f24c-4810-9c34-95568ebd579d",
-      "security": "auto",
-      "alter_id": 0,
-      "transport": {},
-      "tls": {
-        "enabled": false,
-        "insecure": true,
-        "server_name": ""
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "🇨🇦 vmess-23cb2a9b (Canada)",
+      "tag": "🇨🇦 vmess-f6bedd78 (Canada)",
       "server": "9uyiopsdfh.iran.pp.ua",
       "server_port": 443,
       "uuid": "906ba92f-ef96-4133-8eee-f33202a5a721",
@@ -1640,7 +1700,7 @@
     },
     {
       "type": "vmess",
-      "tag": "🇨🇦 vmess-4e508f6f (Canada)",
+      "tag": "🇨🇦 vmess-25d997a7 (Canada)",
       "server": "9x.938.pp.ua",
       "server_port": 443,
       "uuid": "906ba92f-ef96-4133-8eee-f33202a5a721",
@@ -1661,49 +1721,7 @@
     },
     {
       "type": "vmess",
-      "tag": "🇨🇦 vmess-a90ad2bb (Canada)",
-      "server": "104.21.9.236",
-      "server_port": 443,
-      "uuid": "62aa5f80-0328-4004-a375-7f5a59df4022",
-      "security": "auto",
-      "alter_id": 0,
-      "transport": {
-        "path": "/linkws",
-        "headers": {
-          "Host": "hms19.best-tizi.top"
-        },
-        "type": "ws"
-      },
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": ""
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "🇵🇱 vmess-20737423 (Poland)",
-      "server": "141.101.120.229",
-      "server_port": 2096,
-      "uuid": "3bb3c730-e107-49c5-a0b2-b576d1b26a5e",
-      "security": "auto",
-      "alter_id": 0,
-      "transport": {
-        "path": "/",
-        "headers": {
-          "Host": "1743919978.speed.adl.cccp.freefly.pp.ua"
-        },
-        "type": "ws"
-      },
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "1743919978.speed.adl.cccp.freefly.pp.ua"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "🇮🇹 vmess-1fa3a9ed (Italy)",
+      "tag": "🇮🇹 vmess-d6c79764 (Italy)",
       "server": "158.180.228.226",
       "server_port": 443,
       "uuid": "9b456c2a-f2c1-45e1-87a9-b7628b04bb24",
@@ -1724,22 +1742,7 @@
     },
     {
       "type": "vmess",
-      "tag": "🇨🇦 vmess-4d4b787b (Canada)",
-      "server": "173.245.58.100",
-      "server_port": 2052,
-      "uuid": "0f427f89-3aa4-4641-9e58-9ff0cc1cbfae",
-      "security": "auto",
-      "alter_id": 0,
-      "transport": {},
-      "tls": {
-        "enabled": false,
-        "insecure": true,
-        "server_name": ""
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "🇨🇦 vmess-a4369e30 (Canada)",
+      "tag": "🇨🇦 vmess-5c35c112 (Canada)",
       "server": "1wWEeRTTt.131.pP.ua",
       "server_port": 443,
       "uuid": "5453ae26-250d-4e79-b4ec-016baf806865",
@@ -1760,7 +1763,7 @@
     },
     {
       "type": "vmess",
-      "tag": "🇮🇷 vmess-38ac2883 (Iran)",
+      "tag": "🇮🇷 vmess-c5035616 (Iran)",
       "server": "2.188.208.231",
       "server_port": 51462,
       "uuid": "db143f12-11db-4eea-9f4f-ca5d10201b55",
@@ -1775,7 +1778,7 @@
     },
     {
       "type": "vmess",
-      "tag": "🇨🇦 vmess-936cb2ec (Canada)",
+      "tag": "🇨🇦 vmess-b778b5e9 (Canada)",
       "server": "2e21ceDC-fa8B-4020-8Ce0-390e7287d276.890603.pp.Ua",
       "server_port": 443,
       "uuid": "5453ae26-250d-4e79-b4ec-016baf806865",
@@ -1796,7 +1799,7 @@
     },
     {
       "type": "vmess",
-      "tag": "🇨🇦 vmess-89e0ed22 (Canada)",
+      "tag": "🇨🇦 vmess-fe3aec65 (Canada)",
       "server": "3sdfgvcxxx.938.pp.ua",
       "server_port": 443,
       "uuid": "0212fab5-e93c-4904-b7a8-187fd535f354",
@@ -1817,23 +1820,38 @@
     },
     {
       "type": "vmess",
-      "tag": "🇺🇸 vmess-627b01cd (United States)",
-      "server": "us-21.hihu.net",
-      "server_port": 80,
-      "uuid": "a65eb840-1cc5-11f0-b030-205c6d5f5d78",
+      "tag": "🏳️ vmess-90e951b9 (Unknown)",
+      "server": "blog.tele-shop-too.studio",
+      "server_port": 33157,
+      "uuid": "26cf5624-fff0-4a66-9848-d2a0725297b2",
       "security": "auto",
       "alter_id": 0,
-      "transport": {
-        "path": "/d8qnxmye",
-        "headers": {
-          "Host": "mtn.zm"
-        },
-        "type": "ws"
-      },
+      "transport": {},
       "tls": {
         "enabled": false,
         "insecure": true,
         "server_name": ""
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇨🇦 vmess-72b681b3 (Canada)",
+      "server": "d2860D7d-07eE-A0DB-Ef7b-54808DB00b03.890601.Pp.UA",
+      "server_port": 443,
+      "uuid": "5453ae26-250d-4e79-b4ec-016baf806865",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "path": "/h7Rcu0y30lhjdVjJ3gc4aj",
+        "headers": {
+          "Host": "d2860d7d-07ee-a0db-ef7b-54808db00b03.890601.pp.ua"
+        },
+        "type": "ws"
+      },
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "D2860d7d-07ee-A0Db-EF7B-54808dB00b03.890601.pP.UA"
       }
     }
   ],
