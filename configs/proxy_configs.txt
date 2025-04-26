@@ -66,8 +66,6 @@ trojan://19b4d632-0d79-4702-bfc8-1179a7e7a885@45.146.232.171:43383?allowInsecure
 
 trojan://851418c5-a1f0-453c-b8f8-24664990bdf8@220.130.58.136:28503/?type=tcp&security=tls&sni=green2.cdntencentmusic.com&allowInsecure=1#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
-trojan://851418c5-a1f0-453c-b8f8-24664990bdf8@green2.cdntencentmusic.com:28504/?type=tcp&security=tls&sni=green2.cdntencentmusic.com&allowInsecure=1#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
-
 trojan://Aimer@162.159.133.142:443?sni=epcca.ambercc.filegear-sg.me&allowInsecure=0#telegram ⚡️ DailyV2ry
 
 trojan://Aimer@162.159.133.142:443?sni=epcca.ambercc.filegear-sg.me&allowInsecure=0#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
@@ -115,6 +113,8 @@ trojan://telegram-id-directvpn@3.64.24.30:22222?security=tls&alpn=http/1.1&heade
 trojan://telegram-id-directvpn@3.74.98.120:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@35.181.156.129:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
+
+trojan://telegram-id-directvpn@35.181.156.129:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.116.16.35:48172/?POST%20#Server-1
 
