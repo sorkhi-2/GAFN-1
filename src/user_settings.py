@@ -14,13 +14,9 @@ SOURCE_URLS = [
     "https://t.me/s/meli_proxyy",
     "https://t.me/s/DirectVPN",
     "https://t.me/s/VmessProtocol",
-    "https://t.me/s/heyatserver",
     "https://t.me/s/vpnfail_vless",
     "https://t.me/s/DailyV2RY",
     "https://t.me/s/shadowproxy66",
-    "https://t.me/s/OutlineReleasedKey",
-    "https://t.me/s/proxy_shadosocks",
-    "https://t.me/s/ViProxys",
     # Add more URLs here if you want to include additional sources.
 ]
 
