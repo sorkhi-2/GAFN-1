@@ -17,6 +17,9 @@ SOURCE_URLS = [
     "https://t.me/s/vpnfail_vless",
     "https://t.me/s/DailyV2RY",
     "https://t.me/s/shadowproxy66",
+    "https://t.me/s/moftconfig",
+    "https://t.me/s/ConfigsHUB2",
+    "https://t.me/s/ArV2ray",
     # Add more URLs here if you want to include additional sources.
 ]
 
