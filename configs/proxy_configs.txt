@@ -60,15 +60,13 @@ vless://29ecc6d7-b89d-4e60-882f-f77e0666184d@65.20.104.178:8080?type=ws&security
 
 vless://2a219df1-a04b-4424-bfd2-cb37aeb10b2c@178.62.232.236:7594?mode=gun&security=reality&encryption=none&pbk=AZSptdvlWvvmKWEDTY56UsIcnTP8nGCafvPEQOozrxw&fp=chrome&type=grpc&serviceName=7594vless&sni=dash.cloudflare.com&sid=765e8e700426816c#%40vpnfail_bot%20free%v2ray🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
 
-trojan://74260671232757400@correct-sheepdog.shiner427.skin:443/?type=tcp&security=tls&sni=correct-sheepdog.shiner427.skin#[🏁]t.me/MoftConfig🆔 @MoftConfig
+trojan://Aimer@108.165.152.38:8443?allowInsecure=0&sni=epccf.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
-trojan://Aimer@66.81.247.230:2096/?type=tcp&security=tls&sni=epcca.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ᴜɴɪᴛᴇᴅsᴛᴀᴛᴇs(ᴜs)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
+trojan://Aimer@154.197.64.233:443?allowInsecure=0&sni=epccg.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ᴜɴɪᴛᴇᴅsᴛᴀᴛᴇs(ᴜs)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
 
-trojan://Aimer@66.81.247.230:2096/?type=tcp&security=tls&sni=epcca.ambercc.filegear-sg.me#[🇺🇸]t.me/MoftConfig🆔 @MoftConfig
+trojan://Aimer@154.197.64.233:443?allowInsecure=0&sni=epccg.ambercc.filegear-sg.me#[🇺🇸]t.me/MoftConfig🆔 @MoftConfig
 
-trojan://OLq0FfOlp7@141.227.160.88:1935/?type=tcp&security=tls&sni=x1-sweden-ovh-v2.devefun.net#[🇸🇪]t.me/ConfigsHubϟ ᴇsғᴀʜᴀɴ ϟᴄᴏᴜɴᴛʀʏ: #sᴡᴇᴅᴇɴ(sᴇ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-
-trojan://OLq0FfOlp7@141.227.160.88:1935/?type=tcp&security=tls&sni=x1-sweden-ovh-v2.devefun.net#[🇸🇪]t.me/MoftConfig🆔 @MoftConfig
+trojan://OLq0FfOlp7@141.227.160.88:1935/?type=tcp&security=tls&sni=x1-sweden-ovh-v2.devefun.net#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://aTArbZ2F0E@cloudgetservice.mcloudservice.site:443?sni=uSa-vp-27.bLAzECLOUD.SITE&type=ws&host=uSa-vp-27.bLAzECLOUD.SITE&path=/linkvkws#@meli_proxyy
 
@@ -78,25 +76,11 @@ trojan://aTArbZ2F0E@cloudgetservice.mcloudservice.site:443?sni=uSa-vp-27.bLAzECL
 
 trojan://aTArbZ2F0E@cloudgetservice.mcloudservice.site:443?sni=uSa-vp-27.bLAzECLOUD.SITE&type=ws&host=uSa-vp-27.bLAzECLOUD.SITE&path=/linkvkws#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
-trojan://bf4604d3-39e5-4760-aa7a-b78100cae482@45.146.232.171:46927/?type=tcp&security=tls&sni=q08m.vgraxiw73s.hasyaf.cn#[🏁]t.me/MoftConfig🆔 @MoftConfig
-
-trojan://dQUWbcwECl@automq3-proxy.automq-sg.com:443/?type=tcp&security=tls&sni=automq3-proxy.automq-sg.com#[🏁]t.me/MoftConfig🆔 @MoftConfig
-
-trojan://eb0d5adc-ca2b-4b2c-a579-c54f6445bd08@45.146.232.172:42883/?type=tcp&security=tls&sni=q08m.vgraxiw73s.hasyaf.cn#[🏁]t.me/MoftConfig🆔 @MoftConfig
-
-trojan://f8b7cd5e-60c4-4e95-9b7b-d561ef4eed8c@104.21.112.1:443/?type=tcp&security=tls&sni=yellow-cloud-d53f.vavovi6084.workers.dev#[🇨🇦]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ᴄᴀɴᴀᴅᴀ(ᴄᴀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-
-trojan://f8b7cd5e-60c4-4e95-9b7b-d561ef4eed8c@104.21.112.1:443/?type=tcp&security=tls&sni=yellow-cloud-d53f.vavovi6084.workers.dev#[🇨🇦]t.me/MoftConfig🆔 @MoftConfig
-
-trojan://klZqKyxq0H@57.128.165.173:1935/?type=tcp&security=tls&sni=x1-england-ovh-v2.devefun.net#[🇬🇧]t.me/MoftConfig🆔 @MoftConfig
-
 trojan://t2WqbIW2JE@15.204.175.111:2083?path=%2Flinkvws&security=tls&host=usa-vp-111.mETIkaPPs.cOm&type=ws&sni=usa-vp-111.mETIkaPPs.cOm#@meli_proxyy
 
 trojan://t2WqbIW2JE@15.204.175.111:2083?path=%2Flinkvws&security=tls&host=usa-vp-111.mETIkaPPs.cOm&type=ws&sni=usa-vp-111.mETIkaPPs.cOm#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://telegram-id-directvpn@13.37.143.137:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
-
-trojan://telegram-id-directvpn@13.37.143.137:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://telegram-id-directvpn@13.38.208.235:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 
@@ -116,6 +100,22 @@ trojan://telegram-id-directvpn@18.200.164.156:22222?security=tls&alpn=http/1.1&h
 
 trojan://telegram-id-directvpn@18.203.133.90:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 
+trojan://telegram-id-directvpn@3.127.213.136:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
+
+trojan://telegram-id-directvpn@3.73.237.33:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
+
+trojan://telegram-id-directvpn@3.73.237.33:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
+
+trojan://telegram-id-directvpn@35.178.114.243:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
+
+trojan://telegram-id-directvpn@51.21.59.141:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
+
+trojan://telegram-id-directvpn@51.44.151.171:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
+
+trojan://telegram-id-directvpn@52.47.110.167:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
+
+trojan://telegram-id-directvpn@54.247.127.29:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0V05iVmFBbEJlb2docTZ6RFpIdGJa@45.129.185.97:4443#%F0%9F%87%A6%F0%9F%87%B2%20AM-45.129.185.97%3A4443🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZjVkOTU2MTU0N2U1ZTkyQDE1NC4xMi4yNDcuOTc6MTQ4NzE=#telegram 🍊 DailyV2ry
@@ -130,6 +130,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@20.240.200.137
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MjBlZjgwYjkxZWU5YmEzQDE1LjIwNC4yMjguMTA6MjExNTc=#telegram 🍊 DailyV2ry
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NTRkOGIxODkyMzBiMTI1QDY3LjIyMC43MS4xMDc6MjA1MTk=#telegram 🍊 DailyV2ry
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@131.145.24.31:443#@meli_proxyy
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDFkZGNlZC1lNmVlLTQxNzUtOWMxYS1lNTI0MDA5ZjkwNDU%3D@144.126.146.38:30100#@meli_proxyy
@@ -142,13 +144,15 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NjcyNGY0Njk1ODRmZjA4QDE1NC45MC42Mi4xNDU6MjA
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZGZjMTYwZmZkNjEyYzc1QDEwMC40Mi4xODIuMjE6MTkxMzE=#telegram 🍊 DailyV2ry
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZTc1MWMwMzUxN2EzZDczQDIxNy43Ny4yLjIzMDoxNTA4OQ==#telegram 🌟 DailyV2ry
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMDE5NGI4YTk5NTNlNmUxQDE4NS4yMDkuMjI5LjI6NDI5Nzk=#telegram 🍊 DailyV2ry
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMDViMDI2Njk1OTE3OWM2QDE0OC4xMTMuMjAxLjIxNTo0NTM0Mg==#telegram 🍊 DailyV2ry
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNzNiN2ZiNzFiM2Q3ZGI5QDEwOS4xOTkuMTAwLjEyODo0OTg5MQ==#telegram 🌟 DailyV2ry
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYjU3OWYxZjRlZDA3MjViQDUxLjc1LjY2LjIwMjoyMTg4Mg==#telegram 🍊 DailyV2ry
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@13.231.105.239:2377#%F0%9F%87%AF%F0%9F%87%B5%20JP-13.231.105.239%3A2377🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Y0lwTlNBMm04NlI1Zm1HWVVyS2dl@45.95.232.236:4248#%F0%9F%87%A8%F0%9F%87%AD%20CH-45.95.232.236%3A4248🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
 
@@ -168,10 +172,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJjMzZmOGIzNDYyMjdiQDEwMC40Mi4xODIuMDoyNDQ
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZGM0NjExMDYyM2VhNGZlQDE5NC41LjE1Mi4xMTU6MjkxODk=#telegram 🍊 DailyV2ry
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMTdkN2U3ODdiNDcwYWY0QDIzLjE1Ny44OC41MToyMTkxMA==#telegram 🍊 DailyV2ry
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjBhZThkYjNkMjc4NTI2@57.128.190.238:18992#@meli_proxyy
-
 hysteria2://b72ba5d5-2d5e-45b7-93b5-236d343baa7c@64.181.204.186:47262?security=tls&insecure=1&sni=www.bing.com#@meli_proxyy
 
 hysteria2://dongtaiwang.com@108.181.5.130:65232?security=tls&insecure=1&sni=apple.com#@meli_proxyy
@@ -179,6 +179,8 @@ hysteria2://dongtaiwang.com@108.181.5.130:65232?security=tls&insecure=1&sni=appl
 hysteria2://dongtaiwang.com@hy2-1.694463.xyz:4489?security=tls&insecure=1&sni=www.bing.com#@meli_proxyy
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBHb2xlc3Rhbl9WUE4gLSBcdUQ4M0RcdURDNDggXHUwNjJFXHUwNjMxXHUwNkNDXHUwNjJGIFx1MDZBOVx1MDYyN1x1MDY0Nlx1MDY0MVx1MDZDQ1x1MDZBRiIsDQogICJhZGQiOiAiMTc0LjEzNi4yMDQuMjA5IiwNCiAgInBvcnQiOiAiMTE2MTEiLA0KICAiaWQiOiAiYmFlYzlhZGItZDZiOS00NjVhLWY1MzEtZDBhMzgxNDRjZjZjIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
+
+vmess://ewogICAgImFkZCI6ICI4NGE2NjNmYS1zdW56NDAtc3doeDV5LTFxM2RtLmhrLnA1cHYuY29tIiwKICAgICJhaWQiOiAyLAogICAgImhvc3QiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLAogICAgImlkIjogImMxNzg1ZGUwLTIxMmYtMTFlZi05MmFhLWYyM2M5MTY0Y2E1ZCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4et8J+HsEhLLTEuNjUuMjE2LjIxMy0wMzcxIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMnzwn4e68J+HuDExNCB8ICAxLjJNQi9zIiwgImFkZCI6ICI2MDA3N2RlMC1zdmxiNDAtdDI4YjZvLWVmNDguY3UucGxlYmFpLm5ldCIsICJwb3J0IjogNTIyOCwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImNiMTUxMjNhLTA4NGMtMTFmMC04ZWFiLWYyM2M5MWNmYmJjOSJ9
 
@@ -230,7 +232,5 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7jnvo7lm70yNyB8IOKsh++4jyAxLjRNQi9zIiwiYWRk
 
 vmess://eyJ2IjoiMiIsInBzIjoiIDEuMk1CXC9zXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNjAwNzdkZTAtc3ZsYjQwLXQyOGI2by1lZjQ4LmN1LnBsZWJhaS5uZXQiLCJwb3J0Ijo1MjI4LCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiY2IxNTEyM2EtMDg0Yy0xMWYwLThlYWItZjIzYzkxY2ZiYmM5In0=
 
-vmess://eyJ2IjoiMiIsInBzIjoiMnzwn4ev8J+HtTEgfCAgMi4zTUIvcyIsImFkZCI6ImJmMjBiOGIxLXN2aGxzMC1zdnR4bnotMXJneHUuY201LnA1cHYuY29tIiwicG9ydCI6IjE3MjMzIiwidHlwZSI6Im5vbmUiLCJpZCI6ImVhOTMwNjRjLTE3NmMtMTFmMC04ODVkLWYyM2M5MWNmYmJjOSIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiJiZjIwYjhiMS1zdmhsczAtc3Z0eG56LTFyZ3h1LmNtNS5wNXB2LmNvbSIsInRscyI6IiJ9
-
-vmess://eyJ2IjoiMiIsInBzIjoiMnzwn4ev8J+HtTEyIHwgIDEuMU1CL3MiLCJhZGQiOiI0YjJmMjVjZi1zdWRoYzAtc3ZhMzB2LWF1Ni5jLnZvbGN6aWppZS5jb20iLCJwb3J0IjoiNDE1MSIsInR5cGUiOiJub25lIiwiaWQiOiIxYjYwOTc0MC1lZWMyLTExZWYtODU0My1mMjNjOTMxMzZjYjMiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiNGIyZjI1Y2Ytc3VkaGMwLXN2YTMwdi1hdTYuYy52b2xjemlqaWUuY29tIiwidGxzIjoiIn0=
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyYjA3XHVmZTBmIDEuMU1CXC9zXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiaGsyLmxyemR4LnVrIiwicG9ydCI6NDQzLCJpZCI6ImRiNjlkNWJjLWQzNmMtNDkwMy1mNDcxLTc0Yjk4YzVjZWZlNSIsInR5cGUiOiIiLCJhaWQiOjAsIm5ldCI6IndzIiwidGxzIjoidGxzIiwic25pIjoiaGsyLmxyemR4LnVrIiwicGF0aCI6IlwvcmVnaXN0ZXIifQ==
 
