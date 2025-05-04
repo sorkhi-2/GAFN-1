@@ -62,7 +62,9 @@ vless://27fdbffe-67a6-4012-fa3e-8ab349ec0a91@81.31.250.218:43851?path=%2F&securi
 
 trojan://74260671232757400@game-seagull.shiner427.skin:443?allowInsecure=0&sni=game-seagull.shiner427.skin#👉🆔@MoftConfig📡🇸🇬®️Singapore©️Singapore🅿️ping:262.05ms🆔 @MoftConfig
 
-trojan://7445c93f-f1f5-4ce1-9ae0-af2cfcaa721d@183.240.116.235:27201?allowInsecure=0&sni=q08m.vgraxiw73s.hasyaf.cn#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #ᴄʜɪɴᴀ(ᴄɴ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
+trojan://7445c93f-f1f5-4ce1-9ae0-af2cfcaa721d@183.2.150.98:27201?allowInsecure=0&sni=q08m.vgraxiw73s.hasyaf.cn#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #ᴄʜɪɴᴀ(ᴄɴ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
+
+trojan://7445c93f-f1f5-4ce1-9ae0-af2cfcaa721d@183.2.150.98:27201?allowInsecure=0&sni=q08m.vgraxiw73s.hasyaf.cn#[🏁]t.me/MoftConfig🆔 @MoftConfig
 
 trojan://7445c93f-f1f5-4ce1-9ae0-af2cfcaa721d@183.240.116.235:27201?allowInsecure=0&sni=q08m.vgraxiw73s.hasyaf.cn#[🏁]t.me/MoftConfig🆔 @MoftConfig
 
@@ -83,8 +85,6 @@ trojan://t2WqbIW2JE@15.204.175.111:2083?path=%2Flinkvws&security=tls&host=usa-vp
 trojan://t2WqbIW2JE@15.204.175.111:2083?path=%2Flinkvws&security=tls&host=usa-vp-111.mETIkaPPs.cOm&type=ws&sni=usa-vp-111.mETIkaPPs.cOm#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://telegram-id-directvpn@13.37.143.137:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
-
-trojan://telegram-id-directvpn@13.37.143.137:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://telegram-id-directvpn@13.38.208.235:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 
@@ -230,7 +230,7 @@ vmess://eyJ2IjoiMiIsInBzIjoiMnzwn4e68J+HuDI2IHwgIDQuOE1CL3MiLCJhZGQiOiJiZmYyZGE5
 
 vmess://eyJ2IjoiMiIsInBzIjoiMnzwn4e68J+HuDcyIHwgIDIuNE1CL3MiLCJhZGQiOiJhNTFhZDMyZC1zdnAwZzAtdDI4YjZvLWVmNDguY3UucGxlYmFpLm5ldCIsInBvcnQiOiI1MjI4IiwidHlwZSI6Im5vbmUiLCJpZCI6ImNiMTUxMjNhLTA4NGMtMTFmMC04ZWFiLWYyM2M5MWNmYmJjOSIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiJhNTFhZDMyZC1zdnAwZzAtdDI4YjZvLWVmNDguY3UucGxlYmFpLm5ldCIsInRscyI6IiJ9
 
-vmess://eyJ2IjoiMiIsInBzIjoiMnzwn4ev8J+HtTEyIHwgIDEuMU1CL3MiLCJhZGQiOiI0YjJmMjVjZi1zdWRoYzAtc3ZhMzB2LWF1Ni5jLnZvbGN6aWppZS5jb20iLCJwb3J0IjoiNDE1MSIsInR5cGUiOiJub25lIiwiaWQiOiIxYjYwOTc0MC1lZWMyLTExZWYtODU0My1mMjNjOTMxMzZjYjMiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiNGIyZjI1Y2Ytc3VkaGMwLXN2YTMwdi1hdTYuYy52b2xjemlqaWUuY29tIiwidGxzIjoiIn0=
+vmess://eyJ2IjoiMiIsInBzIjoiMnzwn4ev8J+HtTEgfCAgMi4zTUIvcyIsImFkZCI6ImJmMjBiOGIxLXN2aGxzMC1zdnR4bnotMXJneHUuY201LnA1cHYuY29tIiwicG9ydCI6IjE3MjMzIiwidHlwZSI6Im5vbmUiLCJpZCI6ImVhOTMwNjRjLTE3NmMtMTFmMC04ODVkLWYyM2M5MWNmYmJjOSIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiJiZjIwYjhiMS1zdmhsczAtc3Z0eG56LTFyZ3h1LmNtNS5wNXB2LmNvbSIsInRscyI6IiJ9
 
-vmess://eyJ2IjoiMiIsInBzIjoiMnzwn4ev8J+HtTMyIHwgIDMuNE1CL3MiLCJhZGQiOiI2OWM1ODRmMi1zdWlmNDAtdGVlNjEyLTJyODIuY201LnA1cHYuY29tIiwicG9ydCI6IjE3MjMzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjAzNTczZjQ2LWU5NDQtMTFlYi1hOGJmLWYyM2M5MWNmYmJjOSIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiI2OWM1ODRmMi1zdWlmNDAtdGVlNjEyLTJyODIuY201LnA1cHYuY29tIiwidGxzIjoiIn0=
+vmess://eyJ2IjoiMiIsInBzIjoiMnzwn4ev8J+HtTEyIHwgIDEuMU1CL3MiLCJhZGQiOiI0YjJmMjVjZi1zdWRoYzAtc3ZhMzB2LWF1Ni5jLnZvbGN6aWppZS5jb20iLCJwb3J0IjoiNDE1MSIsInR5cGUiOiJub25lIiwiaWQiOiIxYjYwOTc0MC1lZWMyLTExZWYtODU0My1mMjNjOTMxMzZjYjMiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiNGIyZjI1Y2Ytc3VkaGMwLXN2YTMwdi1hdTYuYy52b2xjemlqaWUuY29tIiwidGxzIjoiIn0=
 
