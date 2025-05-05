@@ -118,11 +118,15 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMTdkN2U3ODdiNDcwYWY0QDIzLjE1Ny44OC41MToyMTk
 
 trojan://53249200-30ff-436f-a032-0bb00605f8f9@172.67.219.196:443?path=%2FYPTDHLX8qjvTU5JqXZxjQ5ILc&security=tls&alpn=http%2F1.1&host=3derty.852224.dpdns.org&fp=chrome&type=ws&sni=3derty.852224.dpdns.org#%40meli_proxyy
 
-trojan://53249200-30ff-436f-a032-0bb00605f8f9@172.67.219.196:443?path=%2FYPTDHLX8qjvTU5JqXZxjQ5ILc&security=tls&alpn=http%2F1.1&host=3derty.852224.dpdns.org&fp=chrome&type=ws&sni=3derty.852224.dpdns.org#[🇨🇦]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ᴄᴀɴᴀᴅᴀ(ᴄᴀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
+trojan://Aimer@104.234.239.235:2087/?type=ws&host=epccf.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=epccf.ambercc.filegear-sg.me#[🏁]t.me/MoftConfig🆔 @MoftConfig
 
-trojan://53249200-30ff-436f-a032-0bb00605f8f9@172.67.219.196:443?security=tls&sni=3derty.852224.dpdns.org&alpn=http%2F1.1&fp=chrome&type=ws&host=3derty.852224.dpdns.org&path=%2FYPTDHLX8qjvTU5JqXZxjQ5ILc#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+trojan://Aimer@154.211.8.12:2096/?type=ws&host=epccf.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=epccf.ambercc.filegear-sg.me#[🇺🇸]t.me/MoftConfig🆔 @MoftConfig
 
-trojan://Aimer@59.1.172.186:12326?allowInsecure=0&sni=epccf.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+trojan://Aimer@154.211.8.152:2053/?type=ws&host=epccf.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=epccf.ambercc.filegear-sg.me#[🇺🇸]t.me/MoftConfig🆔 @MoftConfig
+
+trojan://Aimer@45.134.21.8:2053/?type=ws&host=epcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=epcch.ambercc.filegear-sg.me#[🏁]t.me/MoftConfig🆔 @MoftConfig
+
+trojan://Aimer@92.243.74.239:8443/?type=ws&host=epcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=epcch.ambercc.filegear-sg.me#[🏁]t.me/MoftConfig🆔 @MoftConfig
 
 trojan://aTArbZ2F0E@cloudgetservice.mcloudservice.site:443?sni=uSa-vp-27.bLAzECLOUD.SITE&type=ws&host=uSa-vp-27.bLAzECLOUD.SITE&path=/linkvkws#@meli_proxyy
 
@@ -132,13 +136,13 @@ trojan://aTArbZ2F0E@cloudgetservice.mcloudservice.site:443?sni=uSa-vp-27.bLAzECL
 
 trojan://aTArbZ2F0E@cloudgetservice.mcloudservice.site:443?sni=uSa-vp-27.bLAzECLOUD.SITE&type=ws&host=uSa-vp-27.bLAzECLOUD.SITE&path=/linkvkws#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
-trojan://dtYahjir@36.151.251.59:28910?security=tls&allowInsecure=1&type=tcp&headerType=none#👉🆔@MoftConfig📡🇨🇳®️China©️Qinnan🅿️ping:313.52ms🆔 @MoftConfig
+trojan://dtYahjir@36.151.251.59:28910?security=tls&allowInsecure=1&type=tcp&headerType=none#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
-trojan://dtYahjir@36.151.251.61:48069?security=tls&allowInsecure=1&type=tcp&headerType=none#👉🆔@MoftConfig📡🇨🇳®️China©️Qinnan🅿️ping:355.66ms🆔 @MoftConfig
-
-trojan://dtYahjir@36.156.102.121:40252?security=tls&allowInsecure=1&type=tcp&headerType=none#👉🆔@MoftConfig📡🇨🇳®️China©️Qinnan🅿️ping:357.44ms🆔 @MoftConfig
+trojan://pqlnPNu423@57.129.89.172:1935/?type=tcp&security=tls&sni=x1-germany-ovh-v2.devefun.net#[🇩🇪]t.me/MoftConfig🆔 @MoftConfig
 
 trojan://t2WqbIW2JE@15.204.175.111:2083?path=%2Flinkvws&security=tls&host=usa-vp-111.mETIkaPPs.cOm&type=ws&sni=usa-vp-111.mETIkaPPs.cOm#@meli_proxyy
+
+trojan://t2WqbIW2JE@15.204.175.111:2083?path=%2Flinkvws&security=tls&host=usa-vp-111.mETIkaPPs.cOm&type=ws&sni=usa-vp-111.mETIkaPPs.cOm#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://telegram-id-directvpn@13.37.143.137:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 
@@ -167,10 +171,6 @@ trojan://telegram-id-directvpn@18.203.133.90:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@3.127.213.136:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@3.73.237.33:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
-
-trojan://telegram-id-directvpn@35.178.114.243:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
-
-trojan://telegram-id-directvpn@51.21.59.141:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 
 hysteria2://dongtaiwang.com@hy2-1.694463.xyz:4489?security=tls&insecure=1&sni=www.bing.com#@meli_proxyy
 
@@ -228,5 +228,5 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7jnvo7lm70yNyB8IOKsh++4jyAxLjRNQi9zIiwiYWRk
 
 vmess://eyJ2IjoiMiIsInBzIjoiIDMuOE1CXC9zXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMWMyNjU5MDgtc3ZuNXMwLXQyOGI2by1lZjQ4LmN1LnBsZWJhaS5uZXQiLCJwb3J0Ijo1MjI4LCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiY2IxNTEyM2EtMDg0Yy0xMWYwLThlYWItZjIzYzkxY2ZiYmM5In0=
 
-vmess://eyJ2IjoiMiIsInBzIjoiM3zwn4er8J+HtzcgfCAgMy4xTUIvcyIsImFkZCI6Ijc5ZTg5MmYyLXN2MnNnMC10NmVnNmstMXBja2cuY201LnA1cHYuY29tIiwicG9ydCI6IjE3MjM1IiwidHlwZSI6Im5vbmUiLCJpZCI6IjUyNmExMTI4LTc0ODctMTFlZS05YmNhLWYyM2M5MTNjOGQyYiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiI3OWU4OTJmMi1zdjJzZzAtdDZlZzZrLTFwY2tnLmNtNS5wNXB2LmNvbSIsInRscyI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiX+S4reWbvSIsImFkZCI6ImJiYjFlOGUxLXN1eDhnMC1zdXRsZjItMWl2OGwuY201LnA1cHYuY29tIiwicG9ydCI6IjE3MjM0IiwidHlwZSI6Im5vbmUiLCJpZCI6IjRmMTkxYWM1LTRjNjQtMTFlZC04ZmY2LWYyM2M5MWNmYmJjOSIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiJiYmIxZThlMS1zdXg4ZzAtc3V0bGYyLTFpdjhsLmNtNS5wNXB2LmNvbSIsInRscyI6IiJ9
 
