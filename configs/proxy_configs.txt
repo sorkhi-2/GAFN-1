@@ -60,9 +60,9 @@ vless://23feff8e-df65-490f-afc5-e7499a45e5db@docs.acveo.ir:8080?path=%2FTelegram
 
 vless://266e000c-ba2f-43f2-9187-f27caf69f41e@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=VIvAcIOUs-cHallenGe.oNeeAT.CO.&type=ws#telegram 🎪 DailyV2ry
 
-trojan://07300b55-b834-41d8-a13a-fc6c65ffdfdf@125.94.45.119:27401?allowInsecure=0&sni=q08m.vgraxiw73s.hasyaf.cn#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
-
 trojan://Aimer@59.1.172.186:12326?allowInsecure=0&sni=epccf.ambercc.filegear-sg.me#[🏁]t.me/MoftConfig🆔 @MoftConfig
+
+trojan://Aimer@59.1.172.186:12326?allowInsecure=0&sni=epccf.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://aTArbZ2F0E@cloudgetservice.mcloudservice.site:443?sni=uSa-vp-27.bLAzECLOUD.SITE&type=ws&host=uSa-vp-27.bLAzECLOUD.SITE&path=/linkvkws#@meli_proxyy
 
@@ -230,7 +230,7 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7jnvo7lm70yNiB8IOKsh++4jyAzLjJNQi9zIiwiYWRk
 
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7jnvo7lm70yNyB8IOKsh++4jyAxLjRNQi9zIiwiYWRkIjoidGltZS5pcyIsInBvcnQiOjQ0MywiaWQiOiJiNTI2OTI2ZC0xNDc0LTRmNDEtOTg1ZS04Yjg3N2NiODQwY2QiLCJ0eXBlIjoiIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidGxzIjoidGxzIiwic25pIjoidGltZS5pcyIsInBhdGgiOiIvIiwiaG9zdCI6InNoczExMS5rZWppeGlhb3FpNjY2LnN0b3JlIn0=
 
-vmess://eyJ2IjoiMiIsInBzIjoiIDEuOE1CXC9zXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiODExNjcwNDItc3ZobHMwLXN3eTZsaS10bmkyLmN1LnBsZWJhaS5uZXQiLCJwb3J0Ijo1MjI4LCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiNWUyZjg4OGMtNjhlZi0xMWVmLTk2Y2EtZjIzYzkxNjRjYTVkIn0=
+vmess://eyJ2IjoiMiIsInBzIjoiM3zwn4er8J+HtzcgfCAgMy4xTUIvcyIsImFkZCI6Ijc5ZTg5MmYyLXN2MnNnMC10NmVnNmstMXBja2cuY201LnA1cHYuY29tIiwicG9ydCI6IjE3MjM1IiwidHlwZSI6Im5vbmUiLCJpZCI6IjUyNmExMTI4LTc0ODctMTFlZS05YmNhLWYyM2M5MTNjOGQyYiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiI3OWU4OTJmMi1zdjJzZzAtdDZlZzZrLTFwY2tnLmNtNS5wNXB2LmNvbSIsInRscyI6IiJ9
 
-vmess://eyJ2IjoiMiIsInBzIjoiIDMuOE1CXC9zXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMWMyNjU5MDgtc3ZuNXMwLXQyOGI2by1lZjQ4LmN1LnBsZWJhaS5uZXQiLCJwb3J0Ijo1MjI4LCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiY2IxNTEyM2EtMDg0Yy0xMWYwLThlYWItZjIzYzkxY2ZiYmM5In0=
+vmess://eyJ2IjoiMiIsInBzIjoiM3zwn4ev8J+HtTUgfCAgMi44TUIvcyIsImFkZCI6Ijg1ODJhYjRhLXN2YzFzMC1zemVnb2UtMTJoajguY201LnA1cHYuY29tIiwicG9ydCI6IjE3MjMzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjVhY2M3YTdjLWQ3ZWEtMTFlYi04NjczLWYyM2M5MTY0Y2E1ZCIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiI4NTgyYWI0YS1zdmMxczAtc3plZ29lLTEyaGo4LmNtNS5wNXB2LmNvbSIsInRscyI6IiJ9
 
