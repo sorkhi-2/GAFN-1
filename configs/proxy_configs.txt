@@ -6,8 +6,6 @@
 
 vless://%56%32%52%41%58%58@84.234.28.183:6666?mode=gun&type=grpc&serviceName=%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58#%D8%A8%DB%8C%D8%A7%20%E2%80%8C%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%87%D9%85%DB%8C%D8%B4%D9%87%20%D9%88%D8%B5%D9%84%20%D8%A8%D8%A7%D8%B4%20SRCVPN%40
 
-vless://00dfdd9e-c793-44b7-f15d-f37b53f52ce8@snapp.ir.iraniantim.ir:80?security=reality&encryption=none&pbk=yYv9vuo4k2scMcm85us3qCADcfhGl9EEB2PjG1MNE10&headerType=none&fp=chrome&spx=%2FJoin--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN&type=tcp&sni=refersion.com#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
-
 vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?security=tls&encryption=none&headerType=none&type=tcp&sni=api.chandplus.com#%40vpnfail_bot%20free%v2ray🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
 
 vless://03d84c96-8591-49dc-a55e-331ce4855b64@185.203.119.81:80?type=xhttp&path=%2F&host=panel.connect-to-server.ir&mode=stream-one&security=none#@meli_proxyy
@@ -38,8 +36,6 @@ vless://13ad7034-3000-4c92-b925-7baf2ce74a14@140.82.58.108:8080?type=ws&security
 
 vless://1545c177-3908-4cea-bf64-fff107dbbc75@138.68.26.51:49205?type=ws&security=none&path=%2F#telegram 🎯 DailyV2ry
 
-vless://15cc8d40-f0c0-4e5c-9f43-da04c368353c@104.24.251.4:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=66.sgfc.dpdns.org&type=ws&sni=66.sgfc.dpdns.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
-
 vless://15cc8d40-f0c0-4e5c-9f43-da04c368353c@104.24.251.4:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=66.sgfc.dpdns.org&type=ws&sni=66.sgfc.dpdns.org#@meli_proxyy
 
 vless://1aa36690-b2d2-4e1f-a5be-164bd0055b82@208.83.239.240:8080?type=ws&security=none&path=%2F#telegram 🎯 DailyV2ry
@@ -59,6 +55,10 @@ vless://27ca042c-b07d-402d-f8ef-05b517ed48cb@208.83.239.119:8080?type=ws&securit
 vless://29d08a17-1cf5-4156-837f-09059b969b96@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=DEFEnsiVE-BOdy.ONEEAT.Co.&type=ws#telegram 🎯 DailyV2ry
 
 vless://2a219df1-a04b-4424-bfd2-cb37aeb10b2c@188.166.194.27:7594?mode=gun&security=reality&encryption=none&pbk=AZSptdvlWvvmKWEDTY56UsIcnTP8nGCafvPEQOozrxw&fp=chrome&type=grpc&serviceName=7594vless&sni=dash.cloudflare.com&sid=765e8e700426816c#%40vpnfail_bot%20free%v2ray🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
+
+vless://2a5acce7-f3e2-4755-8811-4a4250553986@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=MEssY-mEANinG.oneeaT.cO.&type=ws#telegram 🎪 DailyV2ry
+
+vless://2e85c7df-eb92-4d5a-9aa8-4ea828f044d8@www.sanctionscanner.com:2095?path=%2Ferfani%401404-marz46wx-%40sim2akaade345z-%40wertoopb467frgrtu%3Fed%3D2560&security=&encryption=none&host=www.sciencedirect.com.www.esgtoday.com.speedtest.net.dert.bunny.com.dash.cloudflare.com--dv385wertyhjtvtnqi4htawuoijrgq47dsgyhfb.fastbrokencompony.com.&type=httpupgrade#telegram 🎪 DailyV2ry
 
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WDB4SnM3Qm40eVh4ZVBiUWhmc0txYzBDaUFpNWE3dGNWNkdGUEN5WVduND06TGlXTStIK1NXTXJObllaaU9qcG1PeldNVzBCTVlDQnJMQzU3TzVVYitOcz0%3D@212.118.42.181:9260#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B3%F0%9F%87%B1
 
@@ -122,9 +122,9 @@ trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&heade
 
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@guy-trace-lyric.stark-industries.solutions:443?security=tls&headerType=none&type=tcp#[🏁]t.me/MoftConfig🆔 @MoftConfig
 
-trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@guy-trace-lyric.stark-industries.solutions:443?security=tls&headerType=none&type=tcp#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
-
 trojan://OLq0FfOlp7@141.227.160.88:1935?security=tls&headerType=none&type=tcp&sni=x1-sweden-ovh-v2.devefun.net#@meli_proxyy
+
+trojan://OLq0FfOlp7@141.227.160.88:1935?security=tls&headerType=none&type=tcp&sni=x1-sweden-ovh-v2.devefun.net#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://aTArbZ2F0E@cloudgetservice.mcloudservice.site:443?sni=uSa-vp-27.bLAzECLOUD.SITE&type=ws&host=uSa-vp-27.bLAzECLOUD.SITE&path=/linkvkws#@meli_proxyy
 
@@ -176,6 +176,8 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBHb2xlc3Rhbl9WUE4gLSBcdUQ4M0RcdURDNDgg
 
 vmess://ewogICAgImFkZCI6ICIxODguMTE0Ljk2LjIiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJvYmRpaS5jZmQiLAogICAgImlkIjogIjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9saW5rd3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE4OC4xMTQuOTYuMi0xODExIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 
+vmess://eyJ2IjogIjIiLCAicHMiOiAiM3zwn4e68J+HuDgxIHwgIDIuNk1CL3MiLCAiYWRkIjogImM2MTQ3MzY1LXN2amdnMC10MjhiNm8tZWY0OC5jdS5wbGViYWkubmV0IiwgInBvcnQiOiA1MjI4LCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiY2IxNTEyM2EtMDg0Yy0xMWYwLThlYWItZjIzYzkxY2ZiYmM5In0=
+
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HrfCfh7Ag5Lit5Zu9IC0g6aaZ5rivIC0gQ25zZXJ2ZXJzIExMQyAtIDIuLi4iLCAiYWRkIjogIjEyMC4xOTguNzEuMjE2IiwgInBvcnQiOiAzNTkyMSwgImFpZCI6IDY0LCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQifQ==
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMnzwn4e68J+HuDEwNiB8ICA0LjFNQi9zIiwgImFkZCI6ICIzMDA5ZTM2ZC1zdm41czAtdDFibmpxLTFrcnRiLmN1LnBsZWJhaS5uZXQiLCAicG9ydCI6IDUyMjksICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI2MGY2YjRjNC05ZDcwLTExZWQtYTRkMi1mMjNjOTE2NGNhNWQifQ==
@@ -197,8 +199,6 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7DpppnmuK80IHwg4qyH77iPIDEuMU1CL3MiLCJhZGQi
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7DpppnmuK8yIHwg4qyH77iPIDEuMk1CL3MiLCJhZGQiOiJoazIubHJ6ZHgudWsiLCJwb3J0Ijo0NDMsImlkIjoiZGI2OWQ1YmMtZDM2Yy00OTAzLWY0NzEtNzRiOThjNWNlZmU1IiwidHlwZSI6IiIsImFpZCI6MCwibmV0Ijoid3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJoazIubHJ6ZHgudWsiLCJwYXRoIjoiL3JlZ2lzdGVyIiwiaG9zdCI6ImhrMi5scnpkeC51ayJ9
 
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7DpppnmuK8zIHwg4qyH77iPIDMuMU1CL3MiLCJhZGQiOiIxMDQuMTcuMTM3LjEyNyIsInBvcnQiOjQ0MywiaWQiOiI0N2VhYjBkZS05N2Y5LTQ5YmUtZjJmMy0yZTRlYjE3MjY4ZTYiLCJ0eXBlIjoiIiwiYWlkIjowLCJuZXQiOiJ3cyIsInRscyI6InRscyIsInNuaSI6ImhrLm5pc2tha293c2tpLmdnZmYubmV0IiwicGF0aCI6Ii9hYSIsImhvc3QiOiJoay5uaXNrYWtvd3NraS5nZ2ZmLm5ldCJ9
-
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wgMTIsMTN85paw5Yqg5Z2hMnxAcmlwYW9qaWVkaWFuIiwiYWRkIjoic2c2LnZpcDIuZzIubW9vbmJhc2UubGlmZSIsInBvcnQiOiIzNTE0NiIsInR5cGUiOiJub25lIiwiaWQiOiJjMzEzNjgxNC1hMDdlLTQxZjYtYWQ5NC04ZTIwNDU4YzBkMjEiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2hvbWUiLCJob3N0Ijoid2ViLnhjanMuaW5mbyIsInRscyI6InRscyJ9
 
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6zmlrDliqDlnaEyIHwg4qyH77iPIDEuN01CL3MiLCJhZGQiOiJhLjg4Njk2OC54eXoiLCJwb3J0IjoyMTM2OSwiaWQiOiIxNTExODdiMS1jOGYzLTRjMzItYWM3Mi0zNjc5ZTI2NGE3YTMiLCJ0eXBlIjoiIiwiYWlkIjowLCJuZXQiOiJ3cyIsInRscyI6InRscyIsInNuaSI6ImEuODg2OTY4Lnh5eiIsInBhdGgiOiIvd2ZkZWYiLCJob3N0IjoiYS44ODY5NjgueHl6In0=
 
