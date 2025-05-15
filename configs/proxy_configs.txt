@@ -10,5 +10,5 @@ hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@185.126.255.78:53684/?sni=dxobg
 
 hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@23.132.228.217:21567/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
 
-hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@85.235.205.212:36012/?sni=dxobg4azmk.gafnode.sbs#Moscow-GetAFreeNode
+hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@85.235.205.212:36020/?sni=dxobg4azmk.gafnode.sbs#Moscow-GetAFreeNode
 
